@@ -1,0 +1,142 @@
+{
+    "CES0000000001": {
+        "id": "CES0000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands"
+    },
+    "CES0000000003": {
+        "id": "CES0000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars"
+    },
+    "JTS000000000000000JOL": {
+        "id": "JTS000000000000000JOL",
+        "industry": "Total Nonfarm",
+        "metric": "Job Openings",
+        "source": "JOLTS",
+        "unit": "Level"
+    },
+    "JTS000000000000000HIL": {
+        "id": "JTS000000000000000HIL",
+        "industry": "Total Nonfarm",
+        "metric": "Hires",
+        "source": "JOLTS",
+        "unit": "Level"
+    },
+    "CES5100000001": {
+        "id": "CES5100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands"
+    },
+    "CES5100000003": {
+        "id": "CES5100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars"
+    },
+    "JTS510000000000000JOL": {
+        "id": "JTS510000000000000JOL",
+        "industry": "Information",
+        "metric": "Job Openings",
+        "source": "JOLTS",
+        "unit": "Level"
+    },
+    "JTS510000000000000HIL": {
+        "id": "JTS510000000000000HIL",
+        "industry": "Information",
+        "metric": "Hires",
+        "source": "JOLTS",
+        "unit": "Level"
+    },
+    "CES6054000001": {
+        "id": "CES6054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands"
+    },
+    "CES6054000003": {
+        "id": "CES6054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars"
+    },
+    "JTS540000000000000JOL": {
+        "id": "JTS540000000000000JOL",
+        "industry": "Professional and Business Services",
+        "metric": "Job Openings",
+        "source": "JOLTS",
+        "unit": "Level"
+    },
+    "JTS540000000000000HIL": {
+        "id": "JTS540000000000000HIL",
+        "industry": "Professional and Business Services",
+        "metric": "Hires",
+        "source": "JOLTS",
+        "unit": "Level"
+    },
+    "CES5552000001": {
+        "id": "CES5552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands"
+    },
+    "CES5552000003": {
+        "id": "CES5552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars"
+    },
+    "JTS520000000000000JOL": {
+        "id": "JTS520000000000000JOL",
+        "industry": "Finance and Insurance",
+        "metric": "Job Openings",
+        "source": "JOLTS",
+        "unit": "Level"
+    },
+    "JTS520000000000000HIL": {
+        "id": "JTS520000000000000HIL",
+        "industry": "Finance and Insurance",
+        "metric": "Hires",
+        "source": "JOLTS",
+        "unit": "Level"
+    },
+    "CES7000000001": {
+        "id": "CES7000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands"
+    },
+    "CES7000000003": {
+        "id": "CES7000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars"
+    },
+    "JTS700000000000000JOL": {
+        "id": "JTS700000000000000JOL",
+        "industry": "Leisure and Hospitality",
+        "metric": "Job Openings",
+        "source": "JOLTS",
+        "unit": "Level"
+    },
+    "JTS700000000000000HIL": {
+        "id": "JTS700000000000000HIL",
+        "industry": "Leisure and Hospitality",
+        "metric": "Hires",
+        "source": "JOLTS",
+        "unit": "Level"
+    }
+}
