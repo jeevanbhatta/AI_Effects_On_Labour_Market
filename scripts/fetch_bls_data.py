@@ -16,30 +16,35 @@ DOCS_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'docs')
 SERIES_DEF = [
     # --- Total Nonfarm ---
     {'id': 'CES0000000001', 'industry': 'Total Nonfarm', 'metric': 'All Employees', 'source': 'CES', 'unit': 'Thousands'},
+    {'id': 'CES0000000002', 'industry': 'Total Nonfarm', 'metric': 'Avg Weekly Hours', 'source': 'CES', 'unit': 'Hours'},
     {'id': 'CES0000000003', 'industry': 'Total Nonfarm', 'metric': 'Avg Hourly Earnings', 'source': 'CES', 'unit': 'Dollars'},
     {'id': 'JTS000000000000000JOL', 'industry': 'Total Nonfarm', 'metric': 'Job Openings', 'source': 'JOLTS', 'unit': 'Level'},
     {'id': 'JTS000000000000000HIL', 'industry': 'Total Nonfarm', 'metric': 'Hires', 'source': 'JOLTS', 'unit': 'Level'},
 
     # --- Information (High AI Exposure) ---
     {'id': 'CES5100000001', 'industry': 'Information', 'metric': 'All Employees', 'source': 'CES', 'unit': 'Thousands'},
+    {'id': 'CES5100000002', 'industry': 'Information', 'metric': 'Avg Weekly Hours', 'source': 'CES', 'unit': 'Hours'},
     {'id': 'CES5100000003', 'industry': 'Information', 'metric': 'Avg Hourly Earnings', 'source': 'CES', 'unit': 'Dollars'},
     {'id': 'JTS510000000000000JOL', 'industry': 'Information', 'metric': 'Job Openings', 'source': 'JOLTS', 'unit': 'Level'},
     {'id': 'JTS510000000000000HIL', 'industry': 'Information', 'metric': 'Hires', 'source': 'JOLTS', 'unit': 'Level'},
 
     # --- Professional, Scientific, and Technical Services (High AI Exposure) ---
     {'id': 'CES6054000001', 'industry': 'Professional, Scientific, and Technical Services', 'metric': 'All Employees', 'source': 'CES', 'unit': 'Thousands'},
+    {'id': 'CES6054000002', 'industry': 'Professional, Scientific, and Technical Services', 'metric': 'Avg Weekly Hours', 'source': 'CES', 'unit': 'Hours'},
     {'id': 'CES6054000003', 'industry': 'Professional, Scientific, and Technical Services', 'metric': 'Avg Hourly Earnings', 'source': 'CES', 'unit': 'Dollars'},
     {'id': 'JTS540000000000000JOL', 'industry': 'Professional and Business Services', 'metric': 'Job Openings', 'source': 'JOLTS', 'unit': 'Level'}, # Note: JOLTS often aggregates to Prof & Bus Services or specific sectors. 54 is Prof/Sci/Tech
     {'id': 'JTS540000000000000HIL', 'industry': 'Professional and Business Services', 'metric': 'Hires', 'source': 'JOLTS', 'unit': 'Level'},
 
     # --- Finance and Insurance (High AI Exposure) ---
     {'id': 'CES5552000001', 'industry': 'Finance and Insurance', 'metric': 'All Employees', 'source': 'CES', 'unit': 'Thousands'},
+    {'id': 'CES5552000002', 'industry': 'Finance and Insurance', 'metric': 'Avg Weekly Hours', 'source': 'CES', 'unit': 'Hours'},
     {'id': 'CES5552000003', 'industry': 'Finance and Insurance', 'metric': 'Avg Hourly Earnings', 'source': 'CES', 'unit': 'Dollars'},
     {'id': 'JTS520000000000000JOL', 'industry': 'Finance and Insurance', 'metric': 'Job Openings', 'source': 'JOLTS', 'unit': 'Level'},
     {'id': 'JTS520000000000000HIL', 'industry': 'Finance and Insurance', 'metric': 'Hires', 'source': 'JOLTS', 'unit': 'Level'},
 
     # --- Leisure and Hospitality (Control / Low AI Exposure) ---
     {'id': 'CES7000000001', 'industry': 'Leisure and Hospitality', 'metric': 'All Employees', 'source': 'CES', 'unit': 'Thousands'},
+    {'id': 'CES7000000002', 'industry': 'Leisure and Hospitality', 'metric': 'Avg Weekly Hours', 'source': 'CES', 'unit': 'Hours'},
     {'id': 'CES7000000003', 'industry': 'Leisure and Hospitality', 'metric': 'Avg Hourly Earnings', 'source': 'CES', 'unit': 'Dollars'},
     {'id': 'JTS700000000000000JOL', 'industry': 'Leisure and Hospitality', 'metric': 'Job Openings', 'source': 'JOLTS', 'unit': 'Level'},
     {'id': 'JTS700000000000000HIL', 'industry': 'Leisure and Hospitality', 'metric': 'Hires', 'source': 'JOLTS', 'unit': 'Level'},

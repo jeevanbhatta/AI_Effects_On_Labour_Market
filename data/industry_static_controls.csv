@@ -1,0 +1,6 @@
+Industry,AI_Exposure_Score,Teleworkability_Score,Routine_Task_Index,Skill_Intensity_Index,Automation_Risk_Score
+Information,High (Top Quartile),0.85,0.35,0.80,0.20
+Professional, Scientific, and Technical Services,High (Top Quartile),0.78,0.30,0.85,0.15
+Finance and Insurance,High (Top Quartile),0.76,0.45,0.75,0.30
+Leisure and Hospitality,Low (Bottom Quartile),0.15,0.65,0.30,0.60
+Total Nonfarm,Average,0.37,0.50,0.50,0.45
