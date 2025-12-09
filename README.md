@@ -1,0 +1,56 @@
+# AI Effects on Labor Market Data Repository
+
+This repository contains data and scripts to support the research paper: *"What is the causal effect of the availability of Generative AI on employment rates in the US for roles of varying degrees of occupational exposure to Generative AI?"*
+
+## Project Structure
+
+```
+.
+├── data/                   # Contains raw and processed data files
+│   └── bls_employment_data.csv  # The main dataset
+├── docs/                   # Documentation
+│   ├── VARIABLE_COOKBOOK.md     # Detailed description of variables and series
+│   └── metadata.json            # Machine-readable metadata for the series
+├── scripts/                # Python scripts for data collection
+│   └── fetch_bls_data.py        # Script to fetch data from BLS API
+└── README.md               # This file
+```
+
+## Data Description
+
+The data is sourced from the **US Bureau of Labor Statistics (BLS)** and includes monthly time-series data from 2015 to 2025.
+
+It covers two main surveys:
+1.  **Current Employment Statistics (CES):** Employment levels and average hourly earnings.
+2.  **Job Openings and Labor Turnover Survey (JOLTS):** Job openings and hires.
+
+The data covers specific industries selected for their varying degrees of exposure to Generative AI:
+*   **High Exposure:** Information; Professional, Scientific, and Technical Services; Finance and Insurance.
+*   **Low Exposure (Control):** Leisure and Hospitality.
+*   **Benchmark:** Total Nonfarm.
+
+For a detailed list of variables, please refer to [docs/VARIABLE_COOKBOOK.md](docs/VARIABLE_COOKBOOK.md).
+
+## How to Update the Data
+
+To fetch the latest data or modify the series being collected:
+
+1.  **Prerequisites:** Python 3.x installed.
+2.  **Setup:**
+    ```bash
+    # Create a virtual environment (optional but recommended)
+    python3 -m venv .venv
+    source .venv/bin/activate
+    
+    # Install dependencies
+    pip install requests
+    ```
+3.  **Run the script:**
+    ```bash
+    python3 scripts/fetch_bls_data.py
+    ```
+    This will fetch the data from the BLS API and update `data/bls_employment_data.csv` and `docs/metadata.json`.
+
+## Notes
+*   The script currently uses the public BLS API without a registration key, which has lower rate limits. If you need to fetch more data, you may need to add a registration key to the script.
+*   All data series are Seasonally Adjusted unless otherwise noted.
