@@ -28,9 +28,11 @@ STATES = {
 }
 
 # Industries Configuration
+# Note: BLS CES uses "supersector" codes which differ from NAICS
+# Information is supersector 50 (not NAICS 51)
 INDUSTRIES = [
     {'ces_code': '00000000', 'jolts_code': '000000', 'name': 'Total Nonfarm', 'jolts_name': 'Total Nonfarm'},
-    {'ces_code': '51000000', 'jolts_code': '510000', 'name': 'Information', 'jolts_name': 'Information'},
+    {'ces_code': '50000000', 'jolts_code': '510000', 'name': 'Information', 'jolts_name': 'Information'},
     {'ces_code': '60540000', 'jolts_code': '540000', 'name': 'Professional, Scientific, and Technical Services', 'jolts_name': 'Professional and Business Services'},
     {'ces_code': '55520000', 'jolts_code': '520000', 'name': 'Finance and Insurance', 'jolts_name': 'Finance and Insurance'},
     {'ces_code': '70000000', 'jolts_code': '700000', 'name': 'Leisure and Hospitality', 'jolts_name': 'Leisure and Hospitality'},
