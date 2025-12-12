@@ -4,174 +4,6319 @@
         "industry": "Total Nonfarm",
         "metric": "All Employees",
         "source": "CES",
-        "unit": "Thousands"
+        "unit": "Thousands",
+        "state": "Total"
     },
     "CES0000000002": {
         "id": "CES0000000002",
         "industry": "Total Nonfarm",
         "metric": "Avg Weekly Hours",
         "source": "CES",
-        "unit": "Hours"
+        "unit": "Hours",
+        "state": "Total"
     },
     "CES0000000003": {
         "id": "CES0000000003",
         "industry": "Total Nonfarm",
         "metric": "Avg Hourly Earnings",
         "source": "CES",
-        "unit": "Dollars"
+        "unit": "Dollars",
+        "state": "Total"
     },
-    "JTS000000000000000JOL": {
-        "id": "JTS000000000000000JOL",
+    "JTS00000000000000JOL": {
+        "id": "JTS00000000000000JOL",
         "industry": "Total Nonfarm",
         "metric": "Job Openings",
         "source": "JOLTS",
-        "unit": "Level"
+        "unit": "Level",
+        "state": "Total"
     },
-    "JTS000000000000000HIL": {
-        "id": "JTS000000000000000HIL",
+    "JTS00000000000000HIL": {
+        "id": "JTS00000000000000HIL",
         "industry": "Total Nonfarm",
         "metric": "Hires",
         "source": "JOLTS",
-        "unit": "Level"
+        "unit": "Level",
+        "state": "Total"
     },
     "CES5100000001": {
         "id": "CES5100000001",
         "industry": "Information",
         "metric": "All Employees",
         "source": "CES",
-        "unit": "Thousands"
+        "unit": "Thousands",
+        "state": "Total"
     },
     "CES5100000002": {
         "id": "CES5100000002",
         "industry": "Information",
         "metric": "Avg Weekly Hours",
         "source": "CES",
-        "unit": "Hours"
+        "unit": "Hours",
+        "state": "Total"
     },
     "CES5100000003": {
         "id": "CES5100000003",
         "industry": "Information",
         "metric": "Avg Hourly Earnings",
         "source": "CES",
-        "unit": "Dollars"
+        "unit": "Dollars",
+        "state": "Total"
     },
-    "JTS510000000000000JOL": {
-        "id": "JTS510000000000000JOL",
+    "JTS51000000000000JOL": {
+        "id": "JTS51000000000000JOL",
         "industry": "Information",
         "metric": "Job Openings",
         "source": "JOLTS",
-        "unit": "Level"
+        "unit": "Level",
+        "state": "Total"
     },
-    "JTS510000000000000HIL": {
-        "id": "JTS510000000000000HIL",
+    "JTS51000000000000HIL": {
+        "id": "JTS51000000000000HIL",
         "industry": "Information",
         "metric": "Hires",
         "source": "JOLTS",
-        "unit": "Level"
+        "unit": "Level",
+        "state": "Total"
     },
     "CES6054000001": {
         "id": "CES6054000001",
         "industry": "Professional, Scientific, and Technical Services",
         "metric": "All Employees",
         "source": "CES",
-        "unit": "Thousands"
+        "unit": "Thousands",
+        "state": "Total"
     },
     "CES6054000002": {
         "id": "CES6054000002",
         "industry": "Professional, Scientific, and Technical Services",
         "metric": "Avg Weekly Hours",
         "source": "CES",
-        "unit": "Hours"
+        "unit": "Hours",
+        "state": "Total"
     },
     "CES6054000003": {
         "id": "CES6054000003",
         "industry": "Professional, Scientific, and Technical Services",
         "metric": "Avg Hourly Earnings",
         "source": "CES",
-        "unit": "Dollars"
+        "unit": "Dollars",
+        "state": "Total"
     },
-    "JTS540000000000000JOL": {
-        "id": "JTS540000000000000JOL",
+    "JTS54000000000000JOL": {
+        "id": "JTS54000000000000JOL",
         "industry": "Professional and Business Services",
         "metric": "Job Openings",
         "source": "JOLTS",
-        "unit": "Level"
+        "unit": "Level",
+        "state": "Total"
     },
-    "JTS540000000000000HIL": {
-        "id": "JTS540000000000000HIL",
+    "JTS54000000000000HIL": {
+        "id": "JTS54000000000000HIL",
         "industry": "Professional and Business Services",
         "metric": "Hires",
         "source": "JOLTS",
-        "unit": "Level"
+        "unit": "Level",
+        "state": "Total"
     },
     "CES5552000001": {
         "id": "CES5552000001",
         "industry": "Finance and Insurance",
         "metric": "All Employees",
         "source": "CES",
-        "unit": "Thousands"
+        "unit": "Thousands",
+        "state": "Total"
     },
     "CES5552000002": {
         "id": "CES5552000002",
         "industry": "Finance and Insurance",
         "metric": "Avg Weekly Hours",
         "source": "CES",
-        "unit": "Hours"
+        "unit": "Hours",
+        "state": "Total"
     },
     "CES5552000003": {
         "id": "CES5552000003",
         "industry": "Finance and Insurance",
         "metric": "Avg Hourly Earnings",
         "source": "CES",
-        "unit": "Dollars"
+        "unit": "Dollars",
+        "state": "Total"
     },
-    "JTS520000000000000JOL": {
-        "id": "JTS520000000000000JOL",
+    "JTS52000000000000JOL": {
+        "id": "JTS52000000000000JOL",
         "industry": "Finance and Insurance",
         "metric": "Job Openings",
         "source": "JOLTS",
-        "unit": "Level"
+        "unit": "Level",
+        "state": "Total"
     },
-    "JTS520000000000000HIL": {
-        "id": "JTS520000000000000HIL",
+    "JTS52000000000000HIL": {
+        "id": "JTS52000000000000HIL",
         "industry": "Finance and Insurance",
         "metric": "Hires",
         "source": "JOLTS",
-        "unit": "Level"
+        "unit": "Level",
+        "state": "Total"
     },
     "CES7000000001": {
         "id": "CES7000000001",
         "industry": "Leisure and Hospitality",
         "metric": "All Employees",
         "source": "CES",
-        "unit": "Thousands"
+        "unit": "Thousands",
+        "state": "Total"
     },
     "CES7000000002": {
         "id": "CES7000000002",
         "industry": "Leisure and Hospitality",
         "metric": "Avg Weekly Hours",
         "source": "CES",
-        "unit": "Hours"
+        "unit": "Hours",
+        "state": "Total"
     },
     "CES7000000003": {
         "id": "CES7000000003",
         "industry": "Leisure and Hospitality",
         "metric": "Avg Hourly Earnings",
         "source": "CES",
-        "unit": "Dollars"
+        "unit": "Dollars",
+        "state": "Total"
     },
-    "JTS700000000000000JOL": {
-        "id": "JTS700000000000000JOL",
+    "JTS70000000000000JOL": {
+        "id": "JTS70000000000000JOL",
         "industry": "Leisure and Hospitality",
         "metric": "Job Openings",
         "source": "JOLTS",
-        "unit": "Level"
+        "unit": "Level",
+        "state": "Total"
     },
-    "JTS700000000000000HIL": {
-        "id": "JTS700000000000000HIL",
+    "JTS70000000000000HIL": {
+        "id": "JTS70000000000000HIL",
         "industry": "Leisure and Hospitality",
         "metric": "Hires",
         "source": "JOLTS",
-        "unit": "Level"
+        "unit": "Level",
+        "state": "Total"
+    },
+    "SMS01000000000000001": {
+        "id": "SMS01000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Alabama"
+    },
+    "SMS01000000000000002": {
+        "id": "SMS01000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Alabama"
+    },
+    "SMS01000000000000003": {
+        "id": "SMS01000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Alabama"
+    },
+    "SMS01000005100000001": {
+        "id": "SMS01000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Alabama"
+    },
+    "SMS01000005100000002": {
+        "id": "SMS01000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Alabama"
+    },
+    "SMS01000005100000003": {
+        "id": "SMS01000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Alabama"
+    },
+    "SMS01000006054000001": {
+        "id": "SMS01000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Alabama"
+    },
+    "SMS01000006054000002": {
+        "id": "SMS01000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Alabama"
+    },
+    "SMS01000006054000003": {
+        "id": "SMS01000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Alabama"
+    },
+    "SMS01000005552000001": {
+        "id": "SMS01000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Alabama"
+    },
+    "SMS01000005552000002": {
+        "id": "SMS01000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Alabama"
+    },
+    "SMS01000005552000003": {
+        "id": "SMS01000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Alabama"
+    },
+    "SMS01000007000000001": {
+        "id": "SMS01000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Alabama"
+    },
+    "SMS01000007000000002": {
+        "id": "SMS01000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Alabama"
+    },
+    "SMS01000007000000003": {
+        "id": "SMS01000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Alabama"
+    },
+    "SMS02000000000000001": {
+        "id": "SMS02000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Alaska"
+    },
+    "SMS02000000000000002": {
+        "id": "SMS02000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Alaska"
+    },
+    "SMS02000000000000003": {
+        "id": "SMS02000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Alaska"
+    },
+    "SMS02000005100000001": {
+        "id": "SMS02000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Alaska"
+    },
+    "SMS02000005100000002": {
+        "id": "SMS02000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Alaska"
+    },
+    "SMS02000005100000003": {
+        "id": "SMS02000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Alaska"
+    },
+    "SMS02000006054000001": {
+        "id": "SMS02000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Alaska"
+    },
+    "SMS02000006054000002": {
+        "id": "SMS02000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Alaska"
+    },
+    "SMS02000006054000003": {
+        "id": "SMS02000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Alaska"
+    },
+    "SMS02000005552000001": {
+        "id": "SMS02000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Alaska"
+    },
+    "SMS02000005552000002": {
+        "id": "SMS02000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Alaska"
+    },
+    "SMS02000005552000003": {
+        "id": "SMS02000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Alaska"
+    },
+    "SMS02000007000000001": {
+        "id": "SMS02000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Alaska"
+    },
+    "SMS02000007000000002": {
+        "id": "SMS02000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Alaska"
+    },
+    "SMS02000007000000003": {
+        "id": "SMS02000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Alaska"
+    },
+    "SMS04000000000000001": {
+        "id": "SMS04000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Arizona"
+    },
+    "SMS04000000000000002": {
+        "id": "SMS04000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Arizona"
+    },
+    "SMS04000000000000003": {
+        "id": "SMS04000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Arizona"
+    },
+    "SMS04000005100000001": {
+        "id": "SMS04000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Arizona"
+    },
+    "SMS04000005100000002": {
+        "id": "SMS04000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Arizona"
+    },
+    "SMS04000005100000003": {
+        "id": "SMS04000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Arizona"
+    },
+    "SMS04000006054000001": {
+        "id": "SMS04000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Arizona"
+    },
+    "SMS04000006054000002": {
+        "id": "SMS04000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Arizona"
+    },
+    "SMS04000006054000003": {
+        "id": "SMS04000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Arizona"
+    },
+    "SMS04000005552000001": {
+        "id": "SMS04000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Arizona"
+    },
+    "SMS04000005552000002": {
+        "id": "SMS04000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Arizona"
+    },
+    "SMS04000005552000003": {
+        "id": "SMS04000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Arizona"
+    },
+    "SMS04000007000000001": {
+        "id": "SMS04000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Arizona"
+    },
+    "SMS04000007000000002": {
+        "id": "SMS04000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Arizona"
+    },
+    "SMS04000007000000003": {
+        "id": "SMS04000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Arizona"
+    },
+    "SMS05000000000000001": {
+        "id": "SMS05000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Arkansas"
+    },
+    "SMS05000000000000002": {
+        "id": "SMS05000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Arkansas"
+    },
+    "SMS05000000000000003": {
+        "id": "SMS05000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Arkansas"
+    },
+    "SMS05000005100000001": {
+        "id": "SMS05000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Arkansas"
+    },
+    "SMS05000005100000002": {
+        "id": "SMS05000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Arkansas"
+    },
+    "SMS05000005100000003": {
+        "id": "SMS05000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Arkansas"
+    },
+    "SMS05000006054000001": {
+        "id": "SMS05000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Arkansas"
+    },
+    "SMS05000006054000002": {
+        "id": "SMS05000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Arkansas"
+    },
+    "SMS05000006054000003": {
+        "id": "SMS05000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Arkansas"
+    },
+    "SMS05000005552000001": {
+        "id": "SMS05000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Arkansas"
+    },
+    "SMS05000005552000002": {
+        "id": "SMS05000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Arkansas"
+    },
+    "SMS05000005552000003": {
+        "id": "SMS05000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Arkansas"
+    },
+    "SMS05000007000000001": {
+        "id": "SMS05000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Arkansas"
+    },
+    "SMS05000007000000002": {
+        "id": "SMS05000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Arkansas"
+    },
+    "SMS05000007000000003": {
+        "id": "SMS05000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Arkansas"
+    },
+    "SMS06000000000000001": {
+        "id": "SMS06000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "California"
+    },
+    "SMS06000000000000002": {
+        "id": "SMS06000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "California"
+    },
+    "SMS06000000000000003": {
+        "id": "SMS06000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "California"
+    },
+    "SMS06000005100000001": {
+        "id": "SMS06000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "California"
+    },
+    "SMS06000005100000002": {
+        "id": "SMS06000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "California"
+    },
+    "SMS06000005100000003": {
+        "id": "SMS06000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "California"
+    },
+    "SMS06000006054000001": {
+        "id": "SMS06000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "California"
+    },
+    "SMS06000006054000002": {
+        "id": "SMS06000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "California"
+    },
+    "SMS06000006054000003": {
+        "id": "SMS06000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "California"
+    },
+    "SMS06000005552000001": {
+        "id": "SMS06000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "California"
+    },
+    "SMS06000005552000002": {
+        "id": "SMS06000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "California"
+    },
+    "SMS06000005552000003": {
+        "id": "SMS06000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "California"
+    },
+    "SMS06000007000000001": {
+        "id": "SMS06000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "California"
+    },
+    "SMS06000007000000002": {
+        "id": "SMS06000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "California"
+    },
+    "SMS06000007000000003": {
+        "id": "SMS06000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "California"
+    },
+    "SMS08000000000000001": {
+        "id": "SMS08000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Colorado"
+    },
+    "SMS08000000000000002": {
+        "id": "SMS08000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Colorado"
+    },
+    "SMS08000000000000003": {
+        "id": "SMS08000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Colorado"
+    },
+    "SMS08000005100000001": {
+        "id": "SMS08000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Colorado"
+    },
+    "SMS08000005100000002": {
+        "id": "SMS08000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Colorado"
+    },
+    "SMS08000005100000003": {
+        "id": "SMS08000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Colorado"
+    },
+    "SMS08000006054000001": {
+        "id": "SMS08000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Colorado"
+    },
+    "SMS08000006054000002": {
+        "id": "SMS08000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Colorado"
+    },
+    "SMS08000006054000003": {
+        "id": "SMS08000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Colorado"
+    },
+    "SMS08000005552000001": {
+        "id": "SMS08000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Colorado"
+    },
+    "SMS08000005552000002": {
+        "id": "SMS08000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Colorado"
+    },
+    "SMS08000005552000003": {
+        "id": "SMS08000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Colorado"
+    },
+    "SMS08000007000000001": {
+        "id": "SMS08000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Colorado"
+    },
+    "SMS08000007000000002": {
+        "id": "SMS08000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Colorado"
+    },
+    "SMS08000007000000003": {
+        "id": "SMS08000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Colorado"
+    },
+    "SMS09000000000000001": {
+        "id": "SMS09000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Connecticut"
+    },
+    "SMS09000000000000002": {
+        "id": "SMS09000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Connecticut"
+    },
+    "SMS09000000000000003": {
+        "id": "SMS09000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Connecticut"
+    },
+    "SMS09000005100000001": {
+        "id": "SMS09000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Connecticut"
+    },
+    "SMS09000005100000002": {
+        "id": "SMS09000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Connecticut"
+    },
+    "SMS09000005100000003": {
+        "id": "SMS09000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Connecticut"
+    },
+    "SMS09000006054000001": {
+        "id": "SMS09000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Connecticut"
+    },
+    "SMS09000006054000002": {
+        "id": "SMS09000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Connecticut"
+    },
+    "SMS09000006054000003": {
+        "id": "SMS09000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Connecticut"
+    },
+    "SMS09000005552000001": {
+        "id": "SMS09000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Connecticut"
+    },
+    "SMS09000005552000002": {
+        "id": "SMS09000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Connecticut"
+    },
+    "SMS09000005552000003": {
+        "id": "SMS09000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Connecticut"
+    },
+    "SMS09000007000000001": {
+        "id": "SMS09000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Connecticut"
+    },
+    "SMS09000007000000002": {
+        "id": "SMS09000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Connecticut"
+    },
+    "SMS09000007000000003": {
+        "id": "SMS09000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Connecticut"
+    },
+    "SMS10000000000000001": {
+        "id": "SMS10000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Delaware"
+    },
+    "SMS10000000000000002": {
+        "id": "SMS10000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Delaware"
+    },
+    "SMS10000000000000003": {
+        "id": "SMS10000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Delaware"
+    },
+    "SMS10000005100000001": {
+        "id": "SMS10000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Delaware"
+    },
+    "SMS10000005100000002": {
+        "id": "SMS10000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Delaware"
+    },
+    "SMS10000005100000003": {
+        "id": "SMS10000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Delaware"
+    },
+    "SMS10000006054000001": {
+        "id": "SMS10000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Delaware"
+    },
+    "SMS10000006054000002": {
+        "id": "SMS10000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Delaware"
+    },
+    "SMS10000006054000003": {
+        "id": "SMS10000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Delaware"
+    },
+    "SMS10000005552000001": {
+        "id": "SMS10000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Delaware"
+    },
+    "SMS10000005552000002": {
+        "id": "SMS10000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Delaware"
+    },
+    "SMS10000005552000003": {
+        "id": "SMS10000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Delaware"
+    },
+    "SMS10000007000000001": {
+        "id": "SMS10000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Delaware"
+    },
+    "SMS10000007000000002": {
+        "id": "SMS10000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Delaware"
+    },
+    "SMS10000007000000003": {
+        "id": "SMS10000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Delaware"
+    },
+    "SMS11000000000000001": {
+        "id": "SMS11000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "District of Columbia"
+    },
+    "SMS11000000000000002": {
+        "id": "SMS11000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "District of Columbia"
+    },
+    "SMS11000000000000003": {
+        "id": "SMS11000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "District of Columbia"
+    },
+    "SMS11000005100000001": {
+        "id": "SMS11000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "District of Columbia"
+    },
+    "SMS11000005100000002": {
+        "id": "SMS11000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "District of Columbia"
+    },
+    "SMS11000005100000003": {
+        "id": "SMS11000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "District of Columbia"
+    },
+    "SMS11000006054000001": {
+        "id": "SMS11000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "District of Columbia"
+    },
+    "SMS11000006054000002": {
+        "id": "SMS11000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "District of Columbia"
+    },
+    "SMS11000006054000003": {
+        "id": "SMS11000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "District of Columbia"
+    },
+    "SMS11000005552000001": {
+        "id": "SMS11000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "District of Columbia"
+    },
+    "SMS11000005552000002": {
+        "id": "SMS11000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "District of Columbia"
+    },
+    "SMS11000005552000003": {
+        "id": "SMS11000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "District of Columbia"
+    },
+    "SMS11000007000000001": {
+        "id": "SMS11000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "District of Columbia"
+    },
+    "SMS11000007000000002": {
+        "id": "SMS11000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "District of Columbia"
+    },
+    "SMS11000007000000003": {
+        "id": "SMS11000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "District of Columbia"
+    },
+    "SMS12000000000000001": {
+        "id": "SMS12000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Florida"
+    },
+    "SMS12000000000000002": {
+        "id": "SMS12000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Florida"
+    },
+    "SMS12000000000000003": {
+        "id": "SMS12000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Florida"
+    },
+    "SMS12000005100000001": {
+        "id": "SMS12000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Florida"
+    },
+    "SMS12000005100000002": {
+        "id": "SMS12000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Florida"
+    },
+    "SMS12000005100000003": {
+        "id": "SMS12000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Florida"
+    },
+    "SMS12000006054000001": {
+        "id": "SMS12000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Florida"
+    },
+    "SMS12000006054000002": {
+        "id": "SMS12000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Florida"
+    },
+    "SMS12000006054000003": {
+        "id": "SMS12000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Florida"
+    },
+    "SMS12000005552000001": {
+        "id": "SMS12000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Florida"
+    },
+    "SMS12000005552000002": {
+        "id": "SMS12000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Florida"
+    },
+    "SMS12000005552000003": {
+        "id": "SMS12000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Florida"
+    },
+    "SMS12000007000000001": {
+        "id": "SMS12000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Florida"
+    },
+    "SMS12000007000000002": {
+        "id": "SMS12000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Florida"
+    },
+    "SMS12000007000000003": {
+        "id": "SMS12000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Florida"
+    },
+    "SMS13000000000000001": {
+        "id": "SMS13000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Georgia"
+    },
+    "SMS13000000000000002": {
+        "id": "SMS13000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Georgia"
+    },
+    "SMS13000000000000003": {
+        "id": "SMS13000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Georgia"
+    },
+    "SMS13000005100000001": {
+        "id": "SMS13000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Georgia"
+    },
+    "SMS13000005100000002": {
+        "id": "SMS13000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Georgia"
+    },
+    "SMS13000005100000003": {
+        "id": "SMS13000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Georgia"
+    },
+    "SMS13000006054000001": {
+        "id": "SMS13000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Georgia"
+    },
+    "SMS13000006054000002": {
+        "id": "SMS13000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Georgia"
+    },
+    "SMS13000006054000003": {
+        "id": "SMS13000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Georgia"
+    },
+    "SMS13000005552000001": {
+        "id": "SMS13000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Georgia"
+    },
+    "SMS13000005552000002": {
+        "id": "SMS13000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Georgia"
+    },
+    "SMS13000005552000003": {
+        "id": "SMS13000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Georgia"
+    },
+    "SMS13000007000000001": {
+        "id": "SMS13000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Georgia"
+    },
+    "SMS13000007000000002": {
+        "id": "SMS13000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Georgia"
+    },
+    "SMS13000007000000003": {
+        "id": "SMS13000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Georgia"
+    },
+    "SMS15000000000000001": {
+        "id": "SMS15000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Hawaii"
+    },
+    "SMS15000000000000002": {
+        "id": "SMS15000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Hawaii"
+    },
+    "SMS15000000000000003": {
+        "id": "SMS15000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Hawaii"
+    },
+    "SMS15000005100000001": {
+        "id": "SMS15000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Hawaii"
+    },
+    "SMS15000005100000002": {
+        "id": "SMS15000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Hawaii"
+    },
+    "SMS15000005100000003": {
+        "id": "SMS15000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Hawaii"
+    },
+    "SMS15000006054000001": {
+        "id": "SMS15000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Hawaii"
+    },
+    "SMS15000006054000002": {
+        "id": "SMS15000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Hawaii"
+    },
+    "SMS15000006054000003": {
+        "id": "SMS15000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Hawaii"
+    },
+    "SMS15000005552000001": {
+        "id": "SMS15000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Hawaii"
+    },
+    "SMS15000005552000002": {
+        "id": "SMS15000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Hawaii"
+    },
+    "SMS15000005552000003": {
+        "id": "SMS15000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Hawaii"
+    },
+    "SMS15000007000000001": {
+        "id": "SMS15000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Hawaii"
+    },
+    "SMS15000007000000002": {
+        "id": "SMS15000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Hawaii"
+    },
+    "SMS15000007000000003": {
+        "id": "SMS15000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Hawaii"
+    },
+    "SMS16000000000000001": {
+        "id": "SMS16000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Idaho"
+    },
+    "SMS16000000000000002": {
+        "id": "SMS16000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Idaho"
+    },
+    "SMS16000000000000003": {
+        "id": "SMS16000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Idaho"
+    },
+    "SMS16000005100000001": {
+        "id": "SMS16000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Idaho"
+    },
+    "SMS16000005100000002": {
+        "id": "SMS16000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Idaho"
+    },
+    "SMS16000005100000003": {
+        "id": "SMS16000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Idaho"
+    },
+    "SMS16000006054000001": {
+        "id": "SMS16000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Idaho"
+    },
+    "SMS16000006054000002": {
+        "id": "SMS16000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Idaho"
+    },
+    "SMS16000006054000003": {
+        "id": "SMS16000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Idaho"
+    },
+    "SMS16000005552000001": {
+        "id": "SMS16000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Idaho"
+    },
+    "SMS16000005552000002": {
+        "id": "SMS16000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Idaho"
+    },
+    "SMS16000005552000003": {
+        "id": "SMS16000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Idaho"
+    },
+    "SMS16000007000000001": {
+        "id": "SMS16000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Idaho"
+    },
+    "SMS16000007000000002": {
+        "id": "SMS16000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Idaho"
+    },
+    "SMS16000007000000003": {
+        "id": "SMS16000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Idaho"
+    },
+    "SMS17000000000000001": {
+        "id": "SMS17000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Illinois"
+    },
+    "SMS17000000000000002": {
+        "id": "SMS17000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Illinois"
+    },
+    "SMS17000000000000003": {
+        "id": "SMS17000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Illinois"
+    },
+    "SMS17000005100000001": {
+        "id": "SMS17000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Illinois"
+    },
+    "SMS17000005100000002": {
+        "id": "SMS17000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Illinois"
+    },
+    "SMS17000005100000003": {
+        "id": "SMS17000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Illinois"
+    },
+    "SMS17000006054000001": {
+        "id": "SMS17000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Illinois"
+    },
+    "SMS17000006054000002": {
+        "id": "SMS17000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Illinois"
+    },
+    "SMS17000006054000003": {
+        "id": "SMS17000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Illinois"
+    },
+    "SMS17000005552000001": {
+        "id": "SMS17000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Illinois"
+    },
+    "SMS17000005552000002": {
+        "id": "SMS17000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Illinois"
+    },
+    "SMS17000005552000003": {
+        "id": "SMS17000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Illinois"
+    },
+    "SMS17000007000000001": {
+        "id": "SMS17000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Illinois"
+    },
+    "SMS17000007000000002": {
+        "id": "SMS17000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Illinois"
+    },
+    "SMS17000007000000003": {
+        "id": "SMS17000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Illinois"
+    },
+    "SMS18000000000000001": {
+        "id": "SMS18000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Indiana"
+    },
+    "SMS18000000000000002": {
+        "id": "SMS18000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Indiana"
+    },
+    "SMS18000000000000003": {
+        "id": "SMS18000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Indiana"
+    },
+    "SMS18000005100000001": {
+        "id": "SMS18000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Indiana"
+    },
+    "SMS18000005100000002": {
+        "id": "SMS18000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Indiana"
+    },
+    "SMS18000005100000003": {
+        "id": "SMS18000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Indiana"
+    },
+    "SMS18000006054000001": {
+        "id": "SMS18000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Indiana"
+    },
+    "SMS18000006054000002": {
+        "id": "SMS18000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Indiana"
+    },
+    "SMS18000006054000003": {
+        "id": "SMS18000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Indiana"
+    },
+    "SMS18000005552000001": {
+        "id": "SMS18000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Indiana"
+    },
+    "SMS18000005552000002": {
+        "id": "SMS18000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Indiana"
+    },
+    "SMS18000005552000003": {
+        "id": "SMS18000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Indiana"
+    },
+    "SMS18000007000000001": {
+        "id": "SMS18000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Indiana"
+    },
+    "SMS18000007000000002": {
+        "id": "SMS18000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Indiana"
+    },
+    "SMS18000007000000003": {
+        "id": "SMS18000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Indiana"
+    },
+    "SMS19000000000000001": {
+        "id": "SMS19000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Iowa"
+    },
+    "SMS19000000000000002": {
+        "id": "SMS19000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Iowa"
+    },
+    "SMS19000000000000003": {
+        "id": "SMS19000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Iowa"
+    },
+    "SMS19000005100000001": {
+        "id": "SMS19000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Iowa"
+    },
+    "SMS19000005100000002": {
+        "id": "SMS19000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Iowa"
+    },
+    "SMS19000005100000003": {
+        "id": "SMS19000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Iowa"
+    },
+    "SMS19000006054000001": {
+        "id": "SMS19000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Iowa"
+    },
+    "SMS19000006054000002": {
+        "id": "SMS19000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Iowa"
+    },
+    "SMS19000006054000003": {
+        "id": "SMS19000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Iowa"
+    },
+    "SMS19000005552000001": {
+        "id": "SMS19000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Iowa"
+    },
+    "SMS19000005552000002": {
+        "id": "SMS19000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Iowa"
+    },
+    "SMS19000005552000003": {
+        "id": "SMS19000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Iowa"
+    },
+    "SMS19000007000000001": {
+        "id": "SMS19000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Iowa"
+    },
+    "SMS19000007000000002": {
+        "id": "SMS19000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Iowa"
+    },
+    "SMS19000007000000003": {
+        "id": "SMS19000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Iowa"
+    },
+    "SMS20000000000000001": {
+        "id": "SMS20000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Kansas"
+    },
+    "SMS20000000000000002": {
+        "id": "SMS20000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Kansas"
+    },
+    "SMS20000000000000003": {
+        "id": "SMS20000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Kansas"
+    },
+    "SMS20000005100000001": {
+        "id": "SMS20000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Kansas"
+    },
+    "SMS20000005100000002": {
+        "id": "SMS20000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Kansas"
+    },
+    "SMS20000005100000003": {
+        "id": "SMS20000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Kansas"
+    },
+    "SMS20000006054000001": {
+        "id": "SMS20000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Kansas"
+    },
+    "SMS20000006054000002": {
+        "id": "SMS20000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Kansas"
+    },
+    "SMS20000006054000003": {
+        "id": "SMS20000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Kansas"
+    },
+    "SMS20000005552000001": {
+        "id": "SMS20000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Kansas"
+    },
+    "SMS20000005552000002": {
+        "id": "SMS20000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Kansas"
+    },
+    "SMS20000005552000003": {
+        "id": "SMS20000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Kansas"
+    },
+    "SMS20000007000000001": {
+        "id": "SMS20000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Kansas"
+    },
+    "SMS20000007000000002": {
+        "id": "SMS20000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Kansas"
+    },
+    "SMS20000007000000003": {
+        "id": "SMS20000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Kansas"
+    },
+    "SMS21000000000000001": {
+        "id": "SMS21000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Kentucky"
+    },
+    "SMS21000000000000002": {
+        "id": "SMS21000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Kentucky"
+    },
+    "SMS21000000000000003": {
+        "id": "SMS21000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Kentucky"
+    },
+    "SMS21000005100000001": {
+        "id": "SMS21000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Kentucky"
+    },
+    "SMS21000005100000002": {
+        "id": "SMS21000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Kentucky"
+    },
+    "SMS21000005100000003": {
+        "id": "SMS21000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Kentucky"
+    },
+    "SMS21000006054000001": {
+        "id": "SMS21000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Kentucky"
+    },
+    "SMS21000006054000002": {
+        "id": "SMS21000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Kentucky"
+    },
+    "SMS21000006054000003": {
+        "id": "SMS21000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Kentucky"
+    },
+    "SMS21000005552000001": {
+        "id": "SMS21000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Kentucky"
+    },
+    "SMS21000005552000002": {
+        "id": "SMS21000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Kentucky"
+    },
+    "SMS21000005552000003": {
+        "id": "SMS21000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Kentucky"
+    },
+    "SMS21000007000000001": {
+        "id": "SMS21000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Kentucky"
+    },
+    "SMS21000007000000002": {
+        "id": "SMS21000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Kentucky"
+    },
+    "SMS21000007000000003": {
+        "id": "SMS21000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Kentucky"
+    },
+    "SMS22000000000000001": {
+        "id": "SMS22000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Louisiana"
+    },
+    "SMS22000000000000002": {
+        "id": "SMS22000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Louisiana"
+    },
+    "SMS22000000000000003": {
+        "id": "SMS22000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Louisiana"
+    },
+    "SMS22000005100000001": {
+        "id": "SMS22000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Louisiana"
+    },
+    "SMS22000005100000002": {
+        "id": "SMS22000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Louisiana"
+    },
+    "SMS22000005100000003": {
+        "id": "SMS22000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Louisiana"
+    },
+    "SMS22000006054000001": {
+        "id": "SMS22000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Louisiana"
+    },
+    "SMS22000006054000002": {
+        "id": "SMS22000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Louisiana"
+    },
+    "SMS22000006054000003": {
+        "id": "SMS22000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Louisiana"
+    },
+    "SMS22000005552000001": {
+        "id": "SMS22000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Louisiana"
+    },
+    "SMS22000005552000002": {
+        "id": "SMS22000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Louisiana"
+    },
+    "SMS22000005552000003": {
+        "id": "SMS22000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Louisiana"
+    },
+    "SMS22000007000000001": {
+        "id": "SMS22000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Louisiana"
+    },
+    "SMS22000007000000002": {
+        "id": "SMS22000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Louisiana"
+    },
+    "SMS22000007000000003": {
+        "id": "SMS22000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Louisiana"
+    },
+    "SMS23000000000000001": {
+        "id": "SMS23000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Maine"
+    },
+    "SMS23000000000000002": {
+        "id": "SMS23000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Maine"
+    },
+    "SMS23000000000000003": {
+        "id": "SMS23000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Maine"
+    },
+    "SMS23000005100000001": {
+        "id": "SMS23000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Maine"
+    },
+    "SMS23000005100000002": {
+        "id": "SMS23000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Maine"
+    },
+    "SMS23000005100000003": {
+        "id": "SMS23000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Maine"
+    },
+    "SMS23000006054000001": {
+        "id": "SMS23000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Maine"
+    },
+    "SMS23000006054000002": {
+        "id": "SMS23000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Maine"
+    },
+    "SMS23000006054000003": {
+        "id": "SMS23000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Maine"
+    },
+    "SMS23000005552000001": {
+        "id": "SMS23000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Maine"
+    },
+    "SMS23000005552000002": {
+        "id": "SMS23000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Maine"
+    },
+    "SMS23000005552000003": {
+        "id": "SMS23000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Maine"
+    },
+    "SMS23000007000000001": {
+        "id": "SMS23000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Maine"
+    },
+    "SMS23000007000000002": {
+        "id": "SMS23000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Maine"
+    },
+    "SMS23000007000000003": {
+        "id": "SMS23000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Maine"
+    },
+    "SMS24000000000000001": {
+        "id": "SMS24000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Maryland"
+    },
+    "SMS24000000000000002": {
+        "id": "SMS24000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Maryland"
+    },
+    "SMS24000000000000003": {
+        "id": "SMS24000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Maryland"
+    },
+    "SMS24000005100000001": {
+        "id": "SMS24000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Maryland"
+    },
+    "SMS24000005100000002": {
+        "id": "SMS24000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Maryland"
+    },
+    "SMS24000005100000003": {
+        "id": "SMS24000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Maryland"
+    },
+    "SMS24000006054000001": {
+        "id": "SMS24000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Maryland"
+    },
+    "SMS24000006054000002": {
+        "id": "SMS24000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Maryland"
+    },
+    "SMS24000006054000003": {
+        "id": "SMS24000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Maryland"
+    },
+    "SMS24000005552000001": {
+        "id": "SMS24000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Maryland"
+    },
+    "SMS24000005552000002": {
+        "id": "SMS24000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Maryland"
+    },
+    "SMS24000005552000003": {
+        "id": "SMS24000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Maryland"
+    },
+    "SMS24000007000000001": {
+        "id": "SMS24000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Maryland"
+    },
+    "SMS24000007000000002": {
+        "id": "SMS24000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Maryland"
+    },
+    "SMS24000007000000003": {
+        "id": "SMS24000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Maryland"
+    },
+    "SMS25000000000000001": {
+        "id": "SMS25000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Massachusetts"
+    },
+    "SMS25000000000000002": {
+        "id": "SMS25000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Massachusetts"
+    },
+    "SMS25000000000000003": {
+        "id": "SMS25000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Massachusetts"
+    },
+    "SMS25000005100000001": {
+        "id": "SMS25000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Massachusetts"
+    },
+    "SMS25000005100000002": {
+        "id": "SMS25000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Massachusetts"
+    },
+    "SMS25000005100000003": {
+        "id": "SMS25000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Massachusetts"
+    },
+    "SMS25000006054000001": {
+        "id": "SMS25000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Massachusetts"
+    },
+    "SMS25000006054000002": {
+        "id": "SMS25000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Massachusetts"
+    },
+    "SMS25000006054000003": {
+        "id": "SMS25000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Massachusetts"
+    },
+    "SMS25000005552000001": {
+        "id": "SMS25000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Massachusetts"
+    },
+    "SMS25000005552000002": {
+        "id": "SMS25000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Massachusetts"
+    },
+    "SMS25000005552000003": {
+        "id": "SMS25000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Massachusetts"
+    },
+    "SMS25000007000000001": {
+        "id": "SMS25000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Massachusetts"
+    },
+    "SMS25000007000000002": {
+        "id": "SMS25000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Massachusetts"
+    },
+    "SMS25000007000000003": {
+        "id": "SMS25000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Massachusetts"
+    },
+    "SMS26000000000000001": {
+        "id": "SMS26000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Michigan"
+    },
+    "SMS26000000000000002": {
+        "id": "SMS26000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Michigan"
+    },
+    "SMS26000000000000003": {
+        "id": "SMS26000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Michigan"
+    },
+    "SMS26000005100000001": {
+        "id": "SMS26000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Michigan"
+    },
+    "SMS26000005100000002": {
+        "id": "SMS26000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Michigan"
+    },
+    "SMS26000005100000003": {
+        "id": "SMS26000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Michigan"
+    },
+    "SMS26000006054000001": {
+        "id": "SMS26000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Michigan"
+    },
+    "SMS26000006054000002": {
+        "id": "SMS26000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Michigan"
+    },
+    "SMS26000006054000003": {
+        "id": "SMS26000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Michigan"
+    },
+    "SMS26000005552000001": {
+        "id": "SMS26000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Michigan"
+    },
+    "SMS26000005552000002": {
+        "id": "SMS26000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Michigan"
+    },
+    "SMS26000005552000003": {
+        "id": "SMS26000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Michigan"
+    },
+    "SMS26000007000000001": {
+        "id": "SMS26000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Michigan"
+    },
+    "SMS26000007000000002": {
+        "id": "SMS26000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Michigan"
+    },
+    "SMS26000007000000003": {
+        "id": "SMS26000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Michigan"
+    },
+    "SMS27000000000000001": {
+        "id": "SMS27000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Minnesota"
+    },
+    "SMS27000000000000002": {
+        "id": "SMS27000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Minnesota"
+    },
+    "SMS27000000000000003": {
+        "id": "SMS27000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Minnesota"
+    },
+    "SMS27000005100000001": {
+        "id": "SMS27000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Minnesota"
+    },
+    "SMS27000005100000002": {
+        "id": "SMS27000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Minnesota"
+    },
+    "SMS27000005100000003": {
+        "id": "SMS27000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Minnesota"
+    },
+    "SMS27000006054000001": {
+        "id": "SMS27000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Minnesota"
+    },
+    "SMS27000006054000002": {
+        "id": "SMS27000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Minnesota"
+    },
+    "SMS27000006054000003": {
+        "id": "SMS27000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Minnesota"
+    },
+    "SMS27000005552000001": {
+        "id": "SMS27000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Minnesota"
+    },
+    "SMS27000005552000002": {
+        "id": "SMS27000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Minnesota"
+    },
+    "SMS27000005552000003": {
+        "id": "SMS27000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Minnesota"
+    },
+    "SMS27000007000000001": {
+        "id": "SMS27000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Minnesota"
+    },
+    "SMS27000007000000002": {
+        "id": "SMS27000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Minnesota"
+    },
+    "SMS27000007000000003": {
+        "id": "SMS27000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Minnesota"
+    },
+    "SMS28000000000000001": {
+        "id": "SMS28000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Mississippi"
+    },
+    "SMS28000000000000002": {
+        "id": "SMS28000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Mississippi"
+    },
+    "SMS28000000000000003": {
+        "id": "SMS28000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Mississippi"
+    },
+    "SMS28000005100000001": {
+        "id": "SMS28000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Mississippi"
+    },
+    "SMS28000005100000002": {
+        "id": "SMS28000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Mississippi"
+    },
+    "SMS28000005100000003": {
+        "id": "SMS28000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Mississippi"
+    },
+    "SMS28000006054000001": {
+        "id": "SMS28000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Mississippi"
+    },
+    "SMS28000006054000002": {
+        "id": "SMS28000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Mississippi"
+    },
+    "SMS28000006054000003": {
+        "id": "SMS28000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Mississippi"
+    },
+    "SMS28000005552000001": {
+        "id": "SMS28000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Mississippi"
+    },
+    "SMS28000005552000002": {
+        "id": "SMS28000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Mississippi"
+    },
+    "SMS28000005552000003": {
+        "id": "SMS28000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Mississippi"
+    },
+    "SMS28000007000000001": {
+        "id": "SMS28000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Mississippi"
+    },
+    "SMS28000007000000002": {
+        "id": "SMS28000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Mississippi"
+    },
+    "SMS28000007000000003": {
+        "id": "SMS28000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Mississippi"
+    },
+    "SMS29000000000000001": {
+        "id": "SMS29000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Missouri"
+    },
+    "SMS29000000000000002": {
+        "id": "SMS29000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Missouri"
+    },
+    "SMS29000000000000003": {
+        "id": "SMS29000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Missouri"
+    },
+    "SMS29000005100000001": {
+        "id": "SMS29000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Missouri"
+    },
+    "SMS29000005100000002": {
+        "id": "SMS29000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Missouri"
+    },
+    "SMS29000005100000003": {
+        "id": "SMS29000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Missouri"
+    },
+    "SMS29000006054000001": {
+        "id": "SMS29000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Missouri"
+    },
+    "SMS29000006054000002": {
+        "id": "SMS29000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Missouri"
+    },
+    "SMS29000006054000003": {
+        "id": "SMS29000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Missouri"
+    },
+    "SMS29000005552000001": {
+        "id": "SMS29000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Missouri"
+    },
+    "SMS29000005552000002": {
+        "id": "SMS29000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Missouri"
+    },
+    "SMS29000005552000003": {
+        "id": "SMS29000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Missouri"
+    },
+    "SMS29000007000000001": {
+        "id": "SMS29000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Missouri"
+    },
+    "SMS29000007000000002": {
+        "id": "SMS29000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Missouri"
+    },
+    "SMS29000007000000003": {
+        "id": "SMS29000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Missouri"
+    },
+    "SMS30000000000000001": {
+        "id": "SMS30000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Montana"
+    },
+    "SMS30000000000000002": {
+        "id": "SMS30000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Montana"
+    },
+    "SMS30000000000000003": {
+        "id": "SMS30000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Montana"
+    },
+    "SMS30000005100000001": {
+        "id": "SMS30000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Montana"
+    },
+    "SMS30000005100000002": {
+        "id": "SMS30000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Montana"
+    },
+    "SMS30000005100000003": {
+        "id": "SMS30000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Montana"
+    },
+    "SMS30000006054000001": {
+        "id": "SMS30000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Montana"
+    },
+    "SMS30000006054000002": {
+        "id": "SMS30000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Montana"
+    },
+    "SMS30000006054000003": {
+        "id": "SMS30000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Montana"
+    },
+    "SMS30000005552000001": {
+        "id": "SMS30000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Montana"
+    },
+    "SMS30000005552000002": {
+        "id": "SMS30000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Montana"
+    },
+    "SMS30000005552000003": {
+        "id": "SMS30000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Montana"
+    },
+    "SMS30000007000000001": {
+        "id": "SMS30000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Montana"
+    },
+    "SMS30000007000000002": {
+        "id": "SMS30000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Montana"
+    },
+    "SMS30000007000000003": {
+        "id": "SMS30000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Montana"
+    },
+    "SMS31000000000000001": {
+        "id": "SMS31000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Nebraska"
+    },
+    "SMS31000000000000002": {
+        "id": "SMS31000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Nebraska"
+    },
+    "SMS31000000000000003": {
+        "id": "SMS31000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Nebraska"
+    },
+    "SMS31000005100000001": {
+        "id": "SMS31000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Nebraska"
+    },
+    "SMS31000005100000002": {
+        "id": "SMS31000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Nebraska"
+    },
+    "SMS31000005100000003": {
+        "id": "SMS31000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Nebraska"
+    },
+    "SMS31000006054000001": {
+        "id": "SMS31000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Nebraska"
+    },
+    "SMS31000006054000002": {
+        "id": "SMS31000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Nebraska"
+    },
+    "SMS31000006054000003": {
+        "id": "SMS31000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Nebraska"
+    },
+    "SMS31000005552000001": {
+        "id": "SMS31000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Nebraska"
+    },
+    "SMS31000005552000002": {
+        "id": "SMS31000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Nebraska"
+    },
+    "SMS31000005552000003": {
+        "id": "SMS31000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Nebraska"
+    },
+    "SMS31000007000000001": {
+        "id": "SMS31000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Nebraska"
+    },
+    "SMS31000007000000002": {
+        "id": "SMS31000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Nebraska"
+    },
+    "SMS31000007000000003": {
+        "id": "SMS31000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Nebraska"
+    },
+    "SMS32000000000000001": {
+        "id": "SMS32000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Nevada"
+    },
+    "SMS32000000000000002": {
+        "id": "SMS32000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Nevada"
+    },
+    "SMS32000000000000003": {
+        "id": "SMS32000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Nevada"
+    },
+    "SMS32000005100000001": {
+        "id": "SMS32000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Nevada"
+    },
+    "SMS32000005100000002": {
+        "id": "SMS32000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Nevada"
+    },
+    "SMS32000005100000003": {
+        "id": "SMS32000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Nevada"
+    },
+    "SMS32000006054000001": {
+        "id": "SMS32000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Nevada"
+    },
+    "SMS32000006054000002": {
+        "id": "SMS32000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Nevada"
+    },
+    "SMS32000006054000003": {
+        "id": "SMS32000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Nevada"
+    },
+    "SMS32000005552000001": {
+        "id": "SMS32000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Nevada"
+    },
+    "SMS32000005552000002": {
+        "id": "SMS32000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Nevada"
+    },
+    "SMS32000005552000003": {
+        "id": "SMS32000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Nevada"
+    },
+    "SMS32000007000000001": {
+        "id": "SMS32000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Nevada"
+    },
+    "SMS32000007000000002": {
+        "id": "SMS32000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Nevada"
+    },
+    "SMS32000007000000003": {
+        "id": "SMS32000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Nevada"
+    },
+    "SMS33000000000000001": {
+        "id": "SMS33000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "New Hampshire"
+    },
+    "SMS33000000000000002": {
+        "id": "SMS33000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "New Hampshire"
+    },
+    "SMS33000000000000003": {
+        "id": "SMS33000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "New Hampshire"
+    },
+    "SMS33000005100000001": {
+        "id": "SMS33000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "New Hampshire"
+    },
+    "SMS33000005100000002": {
+        "id": "SMS33000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "New Hampshire"
+    },
+    "SMS33000005100000003": {
+        "id": "SMS33000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "New Hampshire"
+    },
+    "SMS33000006054000001": {
+        "id": "SMS33000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "New Hampshire"
+    },
+    "SMS33000006054000002": {
+        "id": "SMS33000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "New Hampshire"
+    },
+    "SMS33000006054000003": {
+        "id": "SMS33000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "New Hampshire"
+    },
+    "SMS33000005552000001": {
+        "id": "SMS33000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "New Hampshire"
+    },
+    "SMS33000005552000002": {
+        "id": "SMS33000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "New Hampshire"
+    },
+    "SMS33000005552000003": {
+        "id": "SMS33000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "New Hampshire"
+    },
+    "SMS33000007000000001": {
+        "id": "SMS33000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "New Hampshire"
+    },
+    "SMS33000007000000002": {
+        "id": "SMS33000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "New Hampshire"
+    },
+    "SMS33000007000000003": {
+        "id": "SMS33000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "New Hampshire"
+    },
+    "SMS34000000000000001": {
+        "id": "SMS34000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "New Jersey"
+    },
+    "SMS34000000000000002": {
+        "id": "SMS34000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "New Jersey"
+    },
+    "SMS34000000000000003": {
+        "id": "SMS34000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "New Jersey"
+    },
+    "SMS34000005100000001": {
+        "id": "SMS34000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "New Jersey"
+    },
+    "SMS34000005100000002": {
+        "id": "SMS34000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "New Jersey"
+    },
+    "SMS34000005100000003": {
+        "id": "SMS34000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "New Jersey"
+    },
+    "SMS34000006054000001": {
+        "id": "SMS34000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "New Jersey"
+    },
+    "SMS34000006054000002": {
+        "id": "SMS34000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "New Jersey"
+    },
+    "SMS34000006054000003": {
+        "id": "SMS34000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "New Jersey"
+    },
+    "SMS34000005552000001": {
+        "id": "SMS34000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "New Jersey"
+    },
+    "SMS34000005552000002": {
+        "id": "SMS34000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "New Jersey"
+    },
+    "SMS34000005552000003": {
+        "id": "SMS34000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "New Jersey"
+    },
+    "SMS34000007000000001": {
+        "id": "SMS34000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "New Jersey"
+    },
+    "SMS34000007000000002": {
+        "id": "SMS34000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "New Jersey"
+    },
+    "SMS34000007000000003": {
+        "id": "SMS34000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "New Jersey"
+    },
+    "SMS35000000000000001": {
+        "id": "SMS35000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "New Mexico"
+    },
+    "SMS35000000000000002": {
+        "id": "SMS35000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "New Mexico"
+    },
+    "SMS35000000000000003": {
+        "id": "SMS35000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "New Mexico"
+    },
+    "SMS35000005100000001": {
+        "id": "SMS35000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "New Mexico"
+    },
+    "SMS35000005100000002": {
+        "id": "SMS35000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "New Mexico"
+    },
+    "SMS35000005100000003": {
+        "id": "SMS35000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "New Mexico"
+    },
+    "SMS35000006054000001": {
+        "id": "SMS35000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "New Mexico"
+    },
+    "SMS35000006054000002": {
+        "id": "SMS35000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "New Mexico"
+    },
+    "SMS35000006054000003": {
+        "id": "SMS35000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "New Mexico"
+    },
+    "SMS35000005552000001": {
+        "id": "SMS35000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "New Mexico"
+    },
+    "SMS35000005552000002": {
+        "id": "SMS35000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "New Mexico"
+    },
+    "SMS35000005552000003": {
+        "id": "SMS35000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "New Mexico"
+    },
+    "SMS35000007000000001": {
+        "id": "SMS35000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "New Mexico"
+    },
+    "SMS35000007000000002": {
+        "id": "SMS35000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "New Mexico"
+    },
+    "SMS35000007000000003": {
+        "id": "SMS35000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "New Mexico"
+    },
+    "SMS36000000000000001": {
+        "id": "SMS36000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "New York"
+    },
+    "SMS36000000000000002": {
+        "id": "SMS36000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "New York"
+    },
+    "SMS36000000000000003": {
+        "id": "SMS36000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "New York"
+    },
+    "SMS36000005100000001": {
+        "id": "SMS36000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "New York"
+    },
+    "SMS36000005100000002": {
+        "id": "SMS36000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "New York"
+    },
+    "SMS36000005100000003": {
+        "id": "SMS36000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "New York"
+    },
+    "SMS36000006054000001": {
+        "id": "SMS36000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "New York"
+    },
+    "SMS36000006054000002": {
+        "id": "SMS36000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "New York"
+    },
+    "SMS36000006054000003": {
+        "id": "SMS36000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "New York"
+    },
+    "SMS36000005552000001": {
+        "id": "SMS36000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "New York"
+    },
+    "SMS36000005552000002": {
+        "id": "SMS36000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "New York"
+    },
+    "SMS36000005552000003": {
+        "id": "SMS36000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "New York"
+    },
+    "SMS36000007000000001": {
+        "id": "SMS36000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "New York"
+    },
+    "SMS36000007000000002": {
+        "id": "SMS36000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "New York"
+    },
+    "SMS36000007000000003": {
+        "id": "SMS36000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "New York"
+    },
+    "SMS37000000000000001": {
+        "id": "SMS37000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "North Carolina"
+    },
+    "SMS37000000000000002": {
+        "id": "SMS37000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "North Carolina"
+    },
+    "SMS37000000000000003": {
+        "id": "SMS37000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "North Carolina"
+    },
+    "SMS37000005100000001": {
+        "id": "SMS37000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "North Carolina"
+    },
+    "SMS37000005100000002": {
+        "id": "SMS37000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "North Carolina"
+    },
+    "SMS37000005100000003": {
+        "id": "SMS37000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "North Carolina"
+    },
+    "SMS37000006054000001": {
+        "id": "SMS37000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "North Carolina"
+    },
+    "SMS37000006054000002": {
+        "id": "SMS37000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "North Carolina"
+    },
+    "SMS37000006054000003": {
+        "id": "SMS37000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "North Carolina"
+    },
+    "SMS37000005552000001": {
+        "id": "SMS37000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "North Carolina"
+    },
+    "SMS37000005552000002": {
+        "id": "SMS37000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "North Carolina"
+    },
+    "SMS37000005552000003": {
+        "id": "SMS37000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "North Carolina"
+    },
+    "SMS37000007000000001": {
+        "id": "SMS37000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "North Carolina"
+    },
+    "SMS37000007000000002": {
+        "id": "SMS37000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "North Carolina"
+    },
+    "SMS37000007000000003": {
+        "id": "SMS37000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "North Carolina"
+    },
+    "SMS38000000000000001": {
+        "id": "SMS38000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "North Dakota"
+    },
+    "SMS38000000000000002": {
+        "id": "SMS38000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "North Dakota"
+    },
+    "SMS38000000000000003": {
+        "id": "SMS38000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "North Dakota"
+    },
+    "SMS38000005100000001": {
+        "id": "SMS38000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "North Dakota"
+    },
+    "SMS38000005100000002": {
+        "id": "SMS38000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "North Dakota"
+    },
+    "SMS38000005100000003": {
+        "id": "SMS38000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "North Dakota"
+    },
+    "SMS38000006054000001": {
+        "id": "SMS38000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "North Dakota"
+    },
+    "SMS38000006054000002": {
+        "id": "SMS38000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "North Dakota"
+    },
+    "SMS38000006054000003": {
+        "id": "SMS38000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "North Dakota"
+    },
+    "SMS38000005552000001": {
+        "id": "SMS38000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "North Dakota"
+    },
+    "SMS38000005552000002": {
+        "id": "SMS38000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "North Dakota"
+    },
+    "SMS38000005552000003": {
+        "id": "SMS38000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "North Dakota"
+    },
+    "SMS38000007000000001": {
+        "id": "SMS38000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "North Dakota"
+    },
+    "SMS38000007000000002": {
+        "id": "SMS38000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "North Dakota"
+    },
+    "SMS38000007000000003": {
+        "id": "SMS38000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "North Dakota"
+    },
+    "SMS39000000000000001": {
+        "id": "SMS39000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Ohio"
+    },
+    "SMS39000000000000002": {
+        "id": "SMS39000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Ohio"
+    },
+    "SMS39000000000000003": {
+        "id": "SMS39000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Ohio"
+    },
+    "SMS39000005100000001": {
+        "id": "SMS39000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Ohio"
+    },
+    "SMS39000005100000002": {
+        "id": "SMS39000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Ohio"
+    },
+    "SMS39000005100000003": {
+        "id": "SMS39000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Ohio"
+    },
+    "SMS39000006054000001": {
+        "id": "SMS39000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Ohio"
+    },
+    "SMS39000006054000002": {
+        "id": "SMS39000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Ohio"
+    },
+    "SMS39000006054000003": {
+        "id": "SMS39000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Ohio"
+    },
+    "SMS39000005552000001": {
+        "id": "SMS39000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Ohio"
+    },
+    "SMS39000005552000002": {
+        "id": "SMS39000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Ohio"
+    },
+    "SMS39000005552000003": {
+        "id": "SMS39000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Ohio"
+    },
+    "SMS39000007000000001": {
+        "id": "SMS39000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Ohio"
+    },
+    "SMS39000007000000002": {
+        "id": "SMS39000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Ohio"
+    },
+    "SMS39000007000000003": {
+        "id": "SMS39000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Ohio"
+    },
+    "SMS40000000000000001": {
+        "id": "SMS40000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Oklahoma"
+    },
+    "SMS40000000000000002": {
+        "id": "SMS40000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Oklahoma"
+    },
+    "SMS40000000000000003": {
+        "id": "SMS40000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Oklahoma"
+    },
+    "SMS40000005100000001": {
+        "id": "SMS40000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Oklahoma"
+    },
+    "SMS40000005100000002": {
+        "id": "SMS40000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Oklahoma"
+    },
+    "SMS40000005100000003": {
+        "id": "SMS40000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Oklahoma"
+    },
+    "SMS40000006054000001": {
+        "id": "SMS40000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Oklahoma"
+    },
+    "SMS40000006054000002": {
+        "id": "SMS40000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Oklahoma"
+    },
+    "SMS40000006054000003": {
+        "id": "SMS40000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Oklahoma"
+    },
+    "SMS40000005552000001": {
+        "id": "SMS40000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Oklahoma"
+    },
+    "SMS40000005552000002": {
+        "id": "SMS40000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Oklahoma"
+    },
+    "SMS40000005552000003": {
+        "id": "SMS40000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Oklahoma"
+    },
+    "SMS40000007000000001": {
+        "id": "SMS40000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Oklahoma"
+    },
+    "SMS40000007000000002": {
+        "id": "SMS40000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Oklahoma"
+    },
+    "SMS40000007000000003": {
+        "id": "SMS40000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Oklahoma"
+    },
+    "SMS41000000000000001": {
+        "id": "SMS41000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Oregon"
+    },
+    "SMS41000000000000002": {
+        "id": "SMS41000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Oregon"
+    },
+    "SMS41000000000000003": {
+        "id": "SMS41000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Oregon"
+    },
+    "SMS41000005100000001": {
+        "id": "SMS41000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Oregon"
+    },
+    "SMS41000005100000002": {
+        "id": "SMS41000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Oregon"
+    },
+    "SMS41000005100000003": {
+        "id": "SMS41000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Oregon"
+    },
+    "SMS41000006054000001": {
+        "id": "SMS41000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Oregon"
+    },
+    "SMS41000006054000002": {
+        "id": "SMS41000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Oregon"
+    },
+    "SMS41000006054000003": {
+        "id": "SMS41000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Oregon"
+    },
+    "SMS41000005552000001": {
+        "id": "SMS41000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Oregon"
+    },
+    "SMS41000005552000002": {
+        "id": "SMS41000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Oregon"
+    },
+    "SMS41000005552000003": {
+        "id": "SMS41000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Oregon"
+    },
+    "SMS41000007000000001": {
+        "id": "SMS41000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Oregon"
+    },
+    "SMS41000007000000002": {
+        "id": "SMS41000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Oregon"
+    },
+    "SMS41000007000000003": {
+        "id": "SMS41000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Oregon"
+    },
+    "SMS42000000000000001": {
+        "id": "SMS42000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Pennsylvania"
+    },
+    "SMS42000000000000002": {
+        "id": "SMS42000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Pennsylvania"
+    },
+    "SMS42000000000000003": {
+        "id": "SMS42000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Pennsylvania"
+    },
+    "SMS42000005100000001": {
+        "id": "SMS42000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Pennsylvania"
+    },
+    "SMS42000005100000002": {
+        "id": "SMS42000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Pennsylvania"
+    },
+    "SMS42000005100000003": {
+        "id": "SMS42000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Pennsylvania"
+    },
+    "SMS42000006054000001": {
+        "id": "SMS42000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Pennsylvania"
+    },
+    "SMS42000006054000002": {
+        "id": "SMS42000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Pennsylvania"
+    },
+    "SMS42000006054000003": {
+        "id": "SMS42000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Pennsylvania"
+    },
+    "SMS42000005552000001": {
+        "id": "SMS42000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Pennsylvania"
+    },
+    "SMS42000005552000002": {
+        "id": "SMS42000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Pennsylvania"
+    },
+    "SMS42000005552000003": {
+        "id": "SMS42000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Pennsylvania"
+    },
+    "SMS42000007000000001": {
+        "id": "SMS42000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Pennsylvania"
+    },
+    "SMS42000007000000002": {
+        "id": "SMS42000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Pennsylvania"
+    },
+    "SMS42000007000000003": {
+        "id": "SMS42000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Pennsylvania"
+    },
+    "SMS44000000000000001": {
+        "id": "SMS44000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Rhode Island"
+    },
+    "SMS44000000000000002": {
+        "id": "SMS44000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Rhode Island"
+    },
+    "SMS44000000000000003": {
+        "id": "SMS44000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Rhode Island"
+    },
+    "SMS44000005100000001": {
+        "id": "SMS44000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Rhode Island"
+    },
+    "SMS44000005100000002": {
+        "id": "SMS44000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Rhode Island"
+    },
+    "SMS44000005100000003": {
+        "id": "SMS44000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Rhode Island"
+    },
+    "SMS44000006054000001": {
+        "id": "SMS44000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Rhode Island"
+    },
+    "SMS44000006054000002": {
+        "id": "SMS44000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Rhode Island"
+    },
+    "SMS44000006054000003": {
+        "id": "SMS44000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Rhode Island"
+    },
+    "SMS44000005552000001": {
+        "id": "SMS44000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Rhode Island"
+    },
+    "SMS44000005552000002": {
+        "id": "SMS44000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Rhode Island"
+    },
+    "SMS44000005552000003": {
+        "id": "SMS44000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Rhode Island"
+    },
+    "SMS44000007000000001": {
+        "id": "SMS44000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Rhode Island"
+    },
+    "SMS44000007000000002": {
+        "id": "SMS44000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Rhode Island"
+    },
+    "SMS44000007000000003": {
+        "id": "SMS44000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Rhode Island"
+    },
+    "SMS45000000000000001": {
+        "id": "SMS45000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "South Carolina"
+    },
+    "SMS45000000000000002": {
+        "id": "SMS45000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "South Carolina"
+    },
+    "SMS45000000000000003": {
+        "id": "SMS45000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "South Carolina"
+    },
+    "SMS45000005100000001": {
+        "id": "SMS45000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "South Carolina"
+    },
+    "SMS45000005100000002": {
+        "id": "SMS45000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "South Carolina"
+    },
+    "SMS45000005100000003": {
+        "id": "SMS45000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "South Carolina"
+    },
+    "SMS45000006054000001": {
+        "id": "SMS45000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "South Carolina"
+    },
+    "SMS45000006054000002": {
+        "id": "SMS45000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "South Carolina"
+    },
+    "SMS45000006054000003": {
+        "id": "SMS45000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "South Carolina"
+    },
+    "SMS45000005552000001": {
+        "id": "SMS45000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "South Carolina"
+    },
+    "SMS45000005552000002": {
+        "id": "SMS45000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "South Carolina"
+    },
+    "SMS45000005552000003": {
+        "id": "SMS45000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "South Carolina"
+    },
+    "SMS45000007000000001": {
+        "id": "SMS45000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "South Carolina"
+    },
+    "SMS45000007000000002": {
+        "id": "SMS45000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "South Carolina"
+    },
+    "SMS45000007000000003": {
+        "id": "SMS45000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "South Carolina"
+    },
+    "SMS46000000000000001": {
+        "id": "SMS46000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "South Dakota"
+    },
+    "SMS46000000000000002": {
+        "id": "SMS46000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "South Dakota"
+    },
+    "SMS46000000000000003": {
+        "id": "SMS46000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "South Dakota"
+    },
+    "SMS46000005100000001": {
+        "id": "SMS46000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "South Dakota"
+    },
+    "SMS46000005100000002": {
+        "id": "SMS46000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "South Dakota"
+    },
+    "SMS46000005100000003": {
+        "id": "SMS46000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "South Dakota"
+    },
+    "SMS46000006054000001": {
+        "id": "SMS46000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "South Dakota"
+    },
+    "SMS46000006054000002": {
+        "id": "SMS46000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "South Dakota"
+    },
+    "SMS46000006054000003": {
+        "id": "SMS46000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "South Dakota"
+    },
+    "SMS46000005552000001": {
+        "id": "SMS46000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "South Dakota"
+    },
+    "SMS46000005552000002": {
+        "id": "SMS46000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "South Dakota"
+    },
+    "SMS46000005552000003": {
+        "id": "SMS46000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "South Dakota"
+    },
+    "SMS46000007000000001": {
+        "id": "SMS46000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "South Dakota"
+    },
+    "SMS46000007000000002": {
+        "id": "SMS46000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "South Dakota"
+    },
+    "SMS46000007000000003": {
+        "id": "SMS46000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "South Dakota"
+    },
+    "SMS47000000000000001": {
+        "id": "SMS47000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Tennessee"
+    },
+    "SMS47000000000000002": {
+        "id": "SMS47000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Tennessee"
+    },
+    "SMS47000000000000003": {
+        "id": "SMS47000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Tennessee"
+    },
+    "SMS47000005100000001": {
+        "id": "SMS47000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Tennessee"
+    },
+    "SMS47000005100000002": {
+        "id": "SMS47000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Tennessee"
+    },
+    "SMS47000005100000003": {
+        "id": "SMS47000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Tennessee"
+    },
+    "SMS47000006054000001": {
+        "id": "SMS47000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Tennessee"
+    },
+    "SMS47000006054000002": {
+        "id": "SMS47000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Tennessee"
+    },
+    "SMS47000006054000003": {
+        "id": "SMS47000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Tennessee"
+    },
+    "SMS47000005552000001": {
+        "id": "SMS47000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Tennessee"
+    },
+    "SMS47000005552000002": {
+        "id": "SMS47000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Tennessee"
+    },
+    "SMS47000005552000003": {
+        "id": "SMS47000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Tennessee"
+    },
+    "SMS47000007000000001": {
+        "id": "SMS47000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Tennessee"
+    },
+    "SMS47000007000000002": {
+        "id": "SMS47000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Tennessee"
+    },
+    "SMS47000007000000003": {
+        "id": "SMS47000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Tennessee"
+    },
+    "SMS48000000000000001": {
+        "id": "SMS48000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Texas"
+    },
+    "SMS48000000000000002": {
+        "id": "SMS48000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Texas"
+    },
+    "SMS48000000000000003": {
+        "id": "SMS48000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Texas"
+    },
+    "SMS48000005100000001": {
+        "id": "SMS48000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Texas"
+    },
+    "SMS48000005100000002": {
+        "id": "SMS48000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Texas"
+    },
+    "SMS48000005100000003": {
+        "id": "SMS48000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Texas"
+    },
+    "SMS48000006054000001": {
+        "id": "SMS48000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Texas"
+    },
+    "SMS48000006054000002": {
+        "id": "SMS48000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Texas"
+    },
+    "SMS48000006054000003": {
+        "id": "SMS48000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Texas"
+    },
+    "SMS48000005552000001": {
+        "id": "SMS48000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Texas"
+    },
+    "SMS48000005552000002": {
+        "id": "SMS48000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Texas"
+    },
+    "SMS48000005552000003": {
+        "id": "SMS48000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Texas"
+    },
+    "SMS48000007000000001": {
+        "id": "SMS48000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Texas"
+    },
+    "SMS48000007000000002": {
+        "id": "SMS48000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Texas"
+    },
+    "SMS48000007000000003": {
+        "id": "SMS48000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Texas"
+    },
+    "SMS49000000000000001": {
+        "id": "SMS49000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Utah"
+    },
+    "SMS49000000000000002": {
+        "id": "SMS49000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Utah"
+    },
+    "SMS49000000000000003": {
+        "id": "SMS49000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Utah"
+    },
+    "SMS49000005100000001": {
+        "id": "SMS49000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Utah"
+    },
+    "SMS49000005100000002": {
+        "id": "SMS49000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Utah"
+    },
+    "SMS49000005100000003": {
+        "id": "SMS49000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Utah"
+    },
+    "SMS49000006054000001": {
+        "id": "SMS49000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Utah"
+    },
+    "SMS49000006054000002": {
+        "id": "SMS49000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Utah"
+    },
+    "SMS49000006054000003": {
+        "id": "SMS49000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Utah"
+    },
+    "SMS49000005552000001": {
+        "id": "SMS49000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Utah"
+    },
+    "SMS49000005552000002": {
+        "id": "SMS49000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Utah"
+    },
+    "SMS49000005552000003": {
+        "id": "SMS49000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Utah"
+    },
+    "SMS49000007000000001": {
+        "id": "SMS49000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Utah"
+    },
+    "SMS49000007000000002": {
+        "id": "SMS49000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Utah"
+    },
+    "SMS49000007000000003": {
+        "id": "SMS49000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Utah"
+    },
+    "SMS50000000000000001": {
+        "id": "SMS50000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Vermont"
+    },
+    "SMS50000000000000002": {
+        "id": "SMS50000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Vermont"
+    },
+    "SMS50000000000000003": {
+        "id": "SMS50000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Vermont"
+    },
+    "SMS50000005100000001": {
+        "id": "SMS50000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Vermont"
+    },
+    "SMS50000005100000002": {
+        "id": "SMS50000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Vermont"
+    },
+    "SMS50000005100000003": {
+        "id": "SMS50000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Vermont"
+    },
+    "SMS50000006054000001": {
+        "id": "SMS50000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Vermont"
+    },
+    "SMS50000006054000002": {
+        "id": "SMS50000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Vermont"
+    },
+    "SMS50000006054000003": {
+        "id": "SMS50000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Vermont"
+    },
+    "SMS50000005552000001": {
+        "id": "SMS50000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Vermont"
+    },
+    "SMS50000005552000002": {
+        "id": "SMS50000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Vermont"
+    },
+    "SMS50000005552000003": {
+        "id": "SMS50000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Vermont"
+    },
+    "SMS50000007000000001": {
+        "id": "SMS50000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Vermont"
+    },
+    "SMS50000007000000002": {
+        "id": "SMS50000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Vermont"
+    },
+    "SMS50000007000000003": {
+        "id": "SMS50000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Vermont"
+    },
+    "SMS51000000000000001": {
+        "id": "SMS51000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Virginia"
+    },
+    "SMS51000000000000002": {
+        "id": "SMS51000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Virginia"
+    },
+    "SMS51000000000000003": {
+        "id": "SMS51000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Virginia"
+    },
+    "SMS51000005100000001": {
+        "id": "SMS51000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Virginia"
+    },
+    "SMS51000005100000002": {
+        "id": "SMS51000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Virginia"
+    },
+    "SMS51000005100000003": {
+        "id": "SMS51000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Virginia"
+    },
+    "SMS51000006054000001": {
+        "id": "SMS51000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Virginia"
+    },
+    "SMS51000006054000002": {
+        "id": "SMS51000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Virginia"
+    },
+    "SMS51000006054000003": {
+        "id": "SMS51000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Virginia"
+    },
+    "SMS51000005552000001": {
+        "id": "SMS51000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Virginia"
+    },
+    "SMS51000005552000002": {
+        "id": "SMS51000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Virginia"
+    },
+    "SMS51000005552000003": {
+        "id": "SMS51000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Virginia"
+    },
+    "SMS51000007000000001": {
+        "id": "SMS51000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Virginia"
+    },
+    "SMS51000007000000002": {
+        "id": "SMS51000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Virginia"
+    },
+    "SMS51000007000000003": {
+        "id": "SMS51000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Virginia"
+    },
+    "SMS53000000000000001": {
+        "id": "SMS53000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Washington"
+    },
+    "SMS53000000000000002": {
+        "id": "SMS53000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Washington"
+    },
+    "SMS53000000000000003": {
+        "id": "SMS53000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Washington"
+    },
+    "SMS53000005100000001": {
+        "id": "SMS53000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Washington"
+    },
+    "SMS53000005100000002": {
+        "id": "SMS53000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Washington"
+    },
+    "SMS53000005100000003": {
+        "id": "SMS53000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Washington"
+    },
+    "SMS53000006054000001": {
+        "id": "SMS53000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Washington"
+    },
+    "SMS53000006054000002": {
+        "id": "SMS53000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Washington"
+    },
+    "SMS53000006054000003": {
+        "id": "SMS53000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Washington"
+    },
+    "SMS53000005552000001": {
+        "id": "SMS53000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Washington"
+    },
+    "SMS53000005552000002": {
+        "id": "SMS53000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Washington"
+    },
+    "SMS53000005552000003": {
+        "id": "SMS53000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Washington"
+    },
+    "SMS53000007000000001": {
+        "id": "SMS53000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Washington"
+    },
+    "SMS53000007000000002": {
+        "id": "SMS53000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Washington"
+    },
+    "SMS53000007000000003": {
+        "id": "SMS53000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Washington"
+    },
+    "SMS54000000000000001": {
+        "id": "SMS54000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "West Virginia"
+    },
+    "SMS54000000000000002": {
+        "id": "SMS54000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "West Virginia"
+    },
+    "SMS54000000000000003": {
+        "id": "SMS54000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "West Virginia"
+    },
+    "SMS54000005100000001": {
+        "id": "SMS54000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "West Virginia"
+    },
+    "SMS54000005100000002": {
+        "id": "SMS54000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "West Virginia"
+    },
+    "SMS54000005100000003": {
+        "id": "SMS54000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "West Virginia"
+    },
+    "SMS54000006054000001": {
+        "id": "SMS54000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "West Virginia"
+    },
+    "SMS54000006054000002": {
+        "id": "SMS54000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "West Virginia"
+    },
+    "SMS54000006054000003": {
+        "id": "SMS54000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "West Virginia"
+    },
+    "SMS54000005552000001": {
+        "id": "SMS54000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "West Virginia"
+    },
+    "SMS54000005552000002": {
+        "id": "SMS54000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "West Virginia"
+    },
+    "SMS54000005552000003": {
+        "id": "SMS54000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "West Virginia"
+    },
+    "SMS54000007000000001": {
+        "id": "SMS54000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "West Virginia"
+    },
+    "SMS54000007000000002": {
+        "id": "SMS54000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "West Virginia"
+    },
+    "SMS54000007000000003": {
+        "id": "SMS54000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "West Virginia"
+    },
+    "SMS55000000000000001": {
+        "id": "SMS55000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Wisconsin"
+    },
+    "SMS55000000000000002": {
+        "id": "SMS55000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Wisconsin"
+    },
+    "SMS55000000000000003": {
+        "id": "SMS55000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Wisconsin"
+    },
+    "SMS55000005100000001": {
+        "id": "SMS55000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Wisconsin"
+    },
+    "SMS55000005100000002": {
+        "id": "SMS55000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Wisconsin"
+    },
+    "SMS55000005100000003": {
+        "id": "SMS55000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Wisconsin"
+    },
+    "SMS55000006054000001": {
+        "id": "SMS55000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Wisconsin"
+    },
+    "SMS55000006054000002": {
+        "id": "SMS55000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Wisconsin"
+    },
+    "SMS55000006054000003": {
+        "id": "SMS55000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Wisconsin"
+    },
+    "SMS55000005552000001": {
+        "id": "SMS55000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Wisconsin"
+    },
+    "SMS55000005552000002": {
+        "id": "SMS55000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Wisconsin"
+    },
+    "SMS55000005552000003": {
+        "id": "SMS55000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Wisconsin"
+    },
+    "SMS55000007000000001": {
+        "id": "SMS55000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Wisconsin"
+    },
+    "SMS55000007000000002": {
+        "id": "SMS55000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Wisconsin"
+    },
+    "SMS55000007000000003": {
+        "id": "SMS55000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Wisconsin"
+    },
+    "SMS56000000000000001": {
+        "id": "SMS56000000000000001",
+        "industry": "Total Nonfarm",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Wyoming"
+    },
+    "SMS56000000000000002": {
+        "id": "SMS56000000000000002",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Wyoming"
+    },
+    "SMS56000000000000003": {
+        "id": "SMS56000000000000003",
+        "industry": "Total Nonfarm",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Wyoming"
+    },
+    "SMS56000005100000001": {
+        "id": "SMS56000005100000001",
+        "industry": "Information",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Wyoming"
+    },
+    "SMS56000005100000002": {
+        "id": "SMS56000005100000002",
+        "industry": "Information",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Wyoming"
+    },
+    "SMS56000005100000003": {
+        "id": "SMS56000005100000003",
+        "industry": "Information",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Wyoming"
+    },
+    "SMS56000006054000001": {
+        "id": "SMS56000006054000001",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Wyoming"
+    },
+    "SMS56000006054000002": {
+        "id": "SMS56000006054000002",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Wyoming"
+    },
+    "SMS56000006054000003": {
+        "id": "SMS56000006054000003",
+        "industry": "Professional, Scientific, and Technical Services",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Wyoming"
+    },
+    "SMS56000005552000001": {
+        "id": "SMS56000005552000001",
+        "industry": "Finance and Insurance",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Wyoming"
+    },
+    "SMS56000005552000002": {
+        "id": "SMS56000005552000002",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Wyoming"
+    },
+    "SMS56000005552000003": {
+        "id": "SMS56000005552000003",
+        "industry": "Finance and Insurance",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Wyoming"
+    },
+    "SMS56000007000000001": {
+        "id": "SMS56000007000000001",
+        "industry": "Leisure and Hospitality",
+        "metric": "All Employees",
+        "source": "CES",
+        "unit": "Thousands",
+        "state": "Wyoming"
+    },
+    "SMS56000007000000002": {
+        "id": "SMS56000007000000002",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Weekly Hours",
+        "source": "CES",
+        "unit": "Hours",
+        "state": "Wyoming"
+    },
+    "SMS56000007000000003": {
+        "id": "SMS56000007000000003",
+        "industry": "Leisure and Hospitality",
+        "metric": "Avg Hourly Earnings",
+        "source": "CES",
+        "unit": "Dollars",
+        "state": "Wyoming"
     }
 }
