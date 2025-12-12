@@ -47,10 +47,14 @@ To fetch the latest data or modify the series being collected:
     ```
 3.  **Run the script:**
     ```bash
+    # Optional: Set your BLS API Key for higher rate limits (required for full state data)
+    export BLS_API_KEY='your_api_key_here'
+    
     python3 scripts/fetch_bls_data.py
     ```
     This will fetch the data from the BLS API and update `data/bls_employment_data.csv` and `docs/metadata.json`.
 
 ## Notes
-*   The script currently uses the public BLS API without a registration key, which has lower rate limits. If you need to fetch more data, you may need to add a registration key to the script.
+*   The script supports fetching data for all 50 states + DC.
+*   **Important:** Fetching state-level data requires a significant number of API requests. It is highly recommended to use a BLS API Registration Key (set via `BLS_API_KEY` environment variable) to avoid hitting daily rate limits. Unregistered users are limited to 25 series per day.
 *   All data series are Seasonally Adjusted unless otherwise noted.
