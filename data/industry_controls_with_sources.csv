@@ -1,0 +1,6 @@
+Industry,AI_Exposure_Score,AI_Exposure_Source,HighExposure,Teleworkability,Telework_Source,RoutineTaskIndex,RTI_Source,SkillIntensity,Skill_Source,AutomationRisk_PreAI,AutoRisk_Source
+Information,0.52,ILO Working Paper 96 (Gmyrek et al. 2023),1,0.72,Dingel & Neiman (2020) NBER WP 26948,0.35,Autor & Dorn (2013) based on O*NET,0.58,BLS OES + O*NET Education Requirements,0.25,Frey & Osborne (2017)
+"Professional, Scientific, and Technical Services",0.48,ILO Working Paper 96 (Gmyrek et al. 2023),1,0.68,Dingel & Neiman (2020) NBER WP 26948,0.25,Autor & Dorn (2013) based on O*NET,0.72,BLS OES + O*NET Education Requirements,0.18,Frey & Osborne (2017)
+Finance and Insurance,0.5,ILO Working Paper 96 (Gmyrek et al. 2023),1,0.76,Dingel & Neiman (2020) NBER WP 26948,0.55,Autor & Dorn (2013) based on O*NET,0.52,BLS OES + O*NET Education Requirements,0.43,Frey & Osborne (2017)
+Leisure and Hospitality,0.28,ILO Working Paper 96 (Gmyrek et al. 2023),0,0.04,Dingel & Neiman (2020) NBER WP 26948,0.45,Autor & Dorn (2013) based on O*NET,0.12,BLS OES + O*NET Education Requirements,0.75,Frey & Osborne (2017)
+Total Nonfarm,0.38,ILO Working Paper 96 (Gmyrek et al. 2023),0,0.37,Dingel & Neiman (2020) NBER WP 26948,0.5,Autor & Dorn (2013) based on O*NET,0.38,BLS OES + O*NET Education Requirements,0.47,Frey & Osborne (2017)
