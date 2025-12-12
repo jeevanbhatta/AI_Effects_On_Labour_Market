@@ -11,6 +11,7 @@ This dataset contains time-series data from the US Bureau of Labor Statistics (B
 | Variable Name | Description | Data Type | Example | Source |
 | :--- | :--- | :--- | :--- | :--- |
 | `SeriesID` | Unique identifier for the BLS time series. | String | `CES5100000001` | [BLS Series ID Formats](https://www.bls.gov/help/hlpforma.htm) |
+| `State` | The state associated with the data (or 'Total' for national). | String | `California` | [FIPS Codes](https://www.bls.gov/respondents/mwr/electronic-data-interchange/appendix-d-usps-state-abbreviations-and-fips-codes.htm) |
 | `Industry` | The industry sector associated with the data. | String | `Information` | [NAICS Codes](https://www.census.gov/naics/) |
 | `Metric` | The specific labor market measure. | String | `All Employees` | [BLS CES](https://www.bls.gov/ces/) / [JOLTS](https://www.bls.gov/jlt/) |
 | `Source` | The BLS survey source (CES or JOLTS). | String | `CES` | - |
