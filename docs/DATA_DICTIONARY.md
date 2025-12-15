@@ -14,6 +14,9 @@ Generated from: `data/occupation_panel.csv`
 
 **Total unique states:** 54
 
+<details>
+<summary>Click to expand state list (54 states)</summary>
+
 | Code | State |
 |------|-------|
 | 1 | Alabama |
@@ -71,561 +74,568 @@ Generated from: `data/occupation_panel.csv`
 | 72 | Puerto Rico |
 | 78 | Virgin Islands |
 
+</details>
+
 ### Industries
 
 **Total unique industries:** 549
 
-| Code | Industry |
-|------|----------|
-| 3-digit | Telecommunications |
-| 3-digit | Machinery Manufacturing |
-| 3-digit | Fabricated Metal Product Manufacturing |
-| 3-digit | Primary Metal Manufacturing |
-| 3-digit | Professional, Scientific, and Technical Services |
-| 3-digit | Federal, State, and Local Government (excluding state and local schools and hospitals) |
-| 3-digit | Sporting Goods, Hobby, Musical Instrument, and Book Stores |
-| 3-digit | General Merchandise Stores |
-| 3-digit | Miscellaneous Store Retailers |
-| 3-digit | Nonstore Retailers |
-| 3-digit | Postal Service (federal government) |
-| 3-digit | Nonmetallic Mineral Product Manufacturing |
-| 3-digit | Plastics and Rubber Products Manufacturing |
-| 3-digit | Computer and Electronic Product Manufacturing |
-| 3-digit | Chemical Manufacturing |
-| 3-digit | Printing and Related Support Activities |
-| 3-digit | Paper Manufacturing |
-| 3-digit | Wood Product Manufacturing |
-| 3-digit | Lessors of Nonfinancial Intangible Assets (except Copyrighted Works) |
-| 3-digit | Rental and Leasing Services |
-| 3-digit | Real Estate |
-| 3-digit | Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation) |
-| 3-digit | Air Transportation |
-| 3-digit | Rail Transportation |
-| 3-digit | Water Transportation |
-| 3-digit | Truck Transportation |
-| 3-digit | Transit and Ground Passenger Transportation |
-| 3-digit | Ambulatory Health Care Services |
-| 3-digit | Electrical Equipment, Appliance, and Component Manufacturing |
-| 3-digit | Transportation Equipment Manufacturing |
-| 3-digit | Furniture and Related Product Manufacturing |
-| 3-digit | Hospitals |
-| 3-digit | Nursing and Residential Care Facilities |
-| 3-digit | Social Assistance |
-| 3-digit | Merchant Wholesalers, Nondurable Goods |
-| 3-digit | Wholesale Electronic Markets and Agents and Brokers |
-| 3-digit | Educational Services |
-| 3-digit | Performing Arts, Spectator Sports, and Related Industries |
-| 3-digit | Museums, Historical Sites, and Similar Institutions |
-| 3-digit | Amusement, Gambling, and Recreation Industries |
-| 3-digit | Waste Management and Remediation Services |
-| 3-digit | Publishing Industries (except Internet) |
-| 3-digit | Administrative and Support Services |
-| 3-digit | Motor Vehicle and Parts Dealers |
-| 3-digit | Furniture and Home Furnishings Stores |
-| 3-digit | Electronics and Appliance Stores |
-| 3-digit | Accommodation |
-| 3-digit | Food Services and Drinking Places |
-| 3-digit | Building Material and Garden Equipment and Supplies Dealers |
-| 3-digit | Food and Beverage Stores |
-| 3-digit | Health and Personal Care Stores |
-| 3-digit | Gasoline Stations |
-| 3-digit | Clothing and Clothing Accessories Stores |
-| 3-digit | Repair and Maintenance |
-| 3-digit | Personal and Laundry Services |
-| 3-digit | Religious, Grantmaking, Civic, Professional, and Similar Organizations |
-| 3-digit | Management of Companies and Enterprises |
-| 3-digit | Miscellaneous Manufacturing |
-| 3-digit | Pipeline Transportation |
-| 3-digit | Scenic and Sightseeing Transportation |
-| 3-digit | Petroleum and Coal Products Manufacturing |
-| 3-digit | Heavy and Civil Engineering Construction |
-| 3-digit | Gasoline Stations and Fuel Dealers |
-| 3-digit | Clothing, Clothing Accessories, Shoe, and Jewelry Retailers |
-| 3-digit | Specialty Trade Contractors |
-| 3-digit | Support Activities for Transportation |
-| 3-digit | Construction of Buildings |
-| 3-digit | Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers |
-| 3-digit | Publishing Industries |
-| 3-digit | Broadcasting and Content Providers |
-| 3-digit | Other Information Services |
-| 3-digit | Data Processing, Hosting, and Related Services |
-| 3-digit | Utilities |
-| 3-digit | Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services |
-| 3-digit | Web Search Portals, Libraries, Archives, and Other Information Services |
-| 3-digit | Broadcasting (except Internet) |
-| 3-digit | Postal Service |
-| 3-digit | Couriers and Messengers |
-| 3-digit | Support Activities for Mining |
-| 3-digit | Mining (except Oil and Gas) |
-| 3-digit | Oil and Gas Extraction |
-| 3-digit | Postal Service (Federal Government) |
-| 3-digit | Warehousing and Storage |
-| 3-digit | Motion Picture and Sound Recording Industries |
-| 3-digit | Federal, State, and Local Government, excluding State and Local Government Schools and Hospitals and the U.S. Postal Service (OEWS Designation) |
-| 3-digit | Support Activities for Agriculture and Forestry |
-| 3-digit | Forestry and Logging |
-| 3-digit | Health and Personal Care Retailers |
-| 3-digit | General Merchandise Retailers |
-| 3-digit | Merchant Wholesalers, Durable Goods |
-| 3-digit | Food and Beverage Retailers |
-| 3-digit | Textile Mills |
-| 3-digit | Furniture, Home Furnishings, Electronics, and Appliance Retailers |
-| 3-digit | Beverage and Tobacco Product Manufacturing |
-| 3-digit | Credit Intermediation and Related Activities |
-| 3-digit | Funds, Trusts, and Other Financial Vehicles |
-| 3-digit | Wholesale Trade Agents and Brokers |
-| 3-digit | Insurance Carriers and Related Activities |
-| 3-digit | Securities, Commodity Contracts, and Other Financial Investments and Related Activities |
-| 3-digit | Textile Product Mills |
-| 3-digit | Apparel Manufacturing |
-| 3-digit | Leather and Allied Product Manufacturing |
-| 3-digit | Food Manufacturing |
-| 3-digit | Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OEWS Designation) |
-| 3-digit | Monetary Authorities-Central Bank |
-| 4-digit | Securities and Commodity Exchanges |
-| 4-digit | Other Information Services |
-| 4-digit | Office Administrative Services |
-| 4-digit | Employment Services |
-| 4-digit | Facilities Support Services |
-| 4-digit | Securities and Commodity Contracts Intermediation and Brokerage |
-| 4-digit | Insurance Carriers |
-| 4-digit | Agencies, Brokerages, and Other Insurance Related Activities |
-| 4-digit | Insurance and Employee Benefit Funds |
-| 4-digit | Other Financial Investment Activities |
-| 4-digit | Business Support Services |
-| 4-digit | Services to Buildings and Dwellings |
-| 4-digit | Investigation and Security Services |
-| 4-digit | Other Support Services |
-| 4-digit | Waste Collection |
-| 4-digit | Waste Treatment and Disposal |
-| 4-digit | Remediation and Other Waste Management Services |
-| 4-digit | Elementary and Secondary Schools |
-| 4-digit | Junior Colleges |
-| 4-digit | Colleges, Universities, and Professional Schools |
-| 4-digit | Business Schools and Computer and Management Training |
-| 4-digit | Technical and Trade Schools |
-| 4-digit | Other Schools and Instruction |
-| 4-digit | Educational Support Services |
-| 4-digit | Nondepository Credit Intermediation |
-| 4-digit | Travel Arrangement and Reservation Services |
-| 4-digit | Other Investment Pools and Funds |
-| 4-digit | Monetary Authorities-Central Bank |
-| 4-digit | Depository Credit Intermediation |
-| 4-digit | Data Processing, Hosting, and Related Services |
-| 4-digit | Offices of Real Estate Agents and Brokers |
-| 4-digit | Other Telecommunications |
-| 4-digit | Automotive Equipment Rental and Leasing |
-| 4-digit | Consumer Goods Rental |
-| 4-digit | General Rental Centers |
-| 4-digit | Commercial and Industrial Machinery and Equipment Rental and Leasing |
-| 4-digit | Lessors of Nonfinancial Intangible Assets (except Copyrighted Works) |
-| 4-digit | Satellite Telecommunications |
-| 4-digit | Legal Services |
-| 4-digit | Accounting, Tax Preparation, Bookkeeping, and Payroll Services |
-| 4-digit | Architectural, Engineering, and Related Services |
-| 4-digit | Specialized Design Services |
-| 4-digit | Computer Systems Design and Related Services |
-| 4-digit | Management, Scientific, and Technical Consulting Services |
-| 4-digit | Lessors of Real Estate |
-| 4-digit | Wireless Telecommunications Carriers (except Satellite) |
-| 4-digit | Wired Telecommunications Carriers |
-| 4-digit | Cable and Other Subscription Programming |
-| 4-digit | Scientific Research and Development Services |
-| 4-digit | Advertising, Public Relations, and Related Services |
-| 4-digit | Other Professional, Scientific, and Technical Services |
-| 4-digit | Radio and Television Broadcasting |
-| 4-digit | Sound Recording Industries |
-| 4-digit | Motion Picture and Video Industries |
-| 4-digit | Management of Companies and Enterprises |
-| 4-digit | Software Publishers |
-| 4-digit | Newspaper, Periodical, Book, and Directory Publishers |
-| 4-digit | Activities Related to Real Estate |
-| 4-digit | State Government, excluding Schools and Hospitals (OEWS Designation) |
-| 4-digit | Activities Related to Credit Intermediation |
-| 4-digit | Independent Artists, Writers, and Performers |
-| 4-digit | Offices of Dentists |
-| 4-digit | State Government, excluding schools and hospitals (OEWS Designation) |
-| 4-digit | Federal Executive Branch (OEWS Designation) |
-| 4-digit | Rental and Leasing Services (5322, 5323, and 5324 only) |
-| 4-digit | Credit Intermediation and Related Activities (5221 And 5223 only) |
-| 4-digit | Miscellaneous Store Retailers (4532 and 4533 only) |
-| 4-digit | Food and Beverage Stores (4451 and 4452 only) |
-| 4-digit | Merchant Wholesalers, Nondurable Goods (4241, 4247, and 4249 only) |
-| 4-digit | Merchant Wholesalers, Nondurable Goods (4242 and 4246 only) |
-| 4-digit | Merchant Wholesalers, Nondurable Goods (4244 and 4248 only) |
-| 4-digit | Merchant Wholesalers, Durable Goods (4232, 4233, 4235, 4236, 4237, and 4239 only) |
-| 4-digit | Local Government, excluding schools and hospitals (OEWS Designation) |
-| 4-digit | Furniture and Related Product Manufacturing (3371 and 3372 only) |
-| 4-digit | Fabricated Metal Product Manufacturing (3323 and 3324 only) |
-| 4-digit | Fabricated Metal Product Manufacturing (3321, 3322, 3325, 3326, and 3329 only) |
-| 4-digit | Chemical Manufacturing (3255 and 3256 only) |
-| 4-digit | Chemical Manufacturing (3251, 3252, 3253, and 3259 only) |
-| 4-digit | Local Government, excluding schools and hospitals (OES Designation) |
-| 4-digit | State Government, excluding schools and hospitals (OES Designation) |
-| 4-digit | Real Estate |
-| 4-digit | Securities, Commodity Contracts, and Other Financial Investments and Related Activities |
-| 4-digit | Telecommunications |
-| 4-digit | Postal Service (federal government) |
-| 4-digit | Machinery Manufacturing (3331, 3332, 3334, and 3339 only) |
-| 4-digit | Truck Transportation |
-| 4-digit | Wholesale Trade Agents and Brokers |
-| 4-digit | Lawn and Garden Equipment and Supplies Retailers |
-| 4-digit | Credit Intermediation and Related Activities (5221 and 5223 only) |
-| 4-digit | Postal Service (Federal Government) |
-| 4-digit | Rooming and Boarding Houses, Dormitories, and Workers' Camps |
-| 4-digit | Child Care Services |
-| 4-digit | Web Search Portals, Libraries, Archives, and Other Information Services |
-| 4-digit | Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services |
-| 4-digit | Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers |
-| 4-digit | Radio and Television Broadcasting Stations |
-| 4-digit | Miscellaneous Store Retailers (4594 and 4595 only) |
-| 4-digit | Other Miscellaneous Retailers |
-| 4-digit | Automotive Parts, Accessories, and Tire Retailers |
-| 4-digit | Book Retailers and News Dealers |
-| 4-digit | Jewelry, Luggage, and Leather Goods Retailers |
-| 4-digit | Shoe Retailers |
-| 4-digit | Clothing and Clothing Accessories Retailers |
-| 4-digit | Fuel Dealers |
-| 4-digit | Health and Personal Care Retailers |
-| 4-digit | General Merchandise Retailers |
-| 4-digit | Food and Beverage Retailers (4451 and 4452 only) |
-| 4-digit | Electronics and Appliance Retailers |
-| 4-digit | Furniture and Home Furnishings Retailers |
-| 4-digit | Beer, Wine, and Liquor Retailers |
-| 4-digit | Sporting Goods, Hobby, and Musical Instrument Retailers |
-| 4-digit | Offices of Physicians |
-| 4-digit | General Merchandise Stores |
-| 4-digit | Local Government |
-| 4-digit | Amusement Parks and Arcades |
-| 4-digit | Museums, Historical Sites, and Similar Institutions |
-| 4-digit | Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures |
-| 4-digit | Promoters of Performing Arts, Sports, and Similar Events |
-| 4-digit | Spectator Sports |
-| 4-digit | Performing Arts Companies |
-| 4-digit | Child Day Care Services |
-| 4-digit | Vocational Rehabilitation Services |
-| 4-digit | Community Food and Housing, and Emergency and Other Relief Services |
-| 4-digit | Individual and Family Services |
-| 4-digit | Gambling Industries |
-| 4-digit | Other Residential Care Facilities |
-| 4-digit | Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities |
-| 4-digit | Nursing Care Facilities (Skilled Nursing Facilities) |
-| 4-digit | Specialty (except Psychiatric and Substance Abuse) Hospitals |
-| 4-digit | Psychiatric and Substance Abuse Hospitals |
-| 4-digit | General Medical and Surgical Hospitals |
-| 4-digit | Other Ambulatory Health Care Services |
-| 4-digit | Home Health Care Services |
-| 4-digit | Medical and Diagnostic Laboratories |
-| 4-digit | Outpatient Care Centers |
-| 4-digit | Offices of Other Health Practitioners |
-| 4-digit | Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly |
-| 4-digit | Nonmetallic Mineral Product Manufacturing |
-| 4-digit | Other Amusement and Recreation Industries |
-| 4-digit | RV (Recreational Vehicle) Parks and Recreational Camps |
-| 4-digit | State Government |
-| 4-digit | Federal Government |
-| 4-digit | Local Government (OES Designation) |
-| 4-digit | State Government (OES Designation) |
-| 4-digit | Federal Executive Branch (OES Designation) |
-| 4-digit | Business, Professional, Labor, Political, and Similar Organizations |
-| 4-digit | Civic and Social Organizations |
-| 4-digit | Social Advocacy Organizations |
-| 4-digit | Grantmaking and Giving Services |
-| 4-digit | Religious Organizations |
-| 4-digit | Traveler Accommodation |
-| 4-digit | Other Personal Services |
-| 4-digit | Death Care Services |
-| 4-digit | Personal Care Services |
-| 4-digit | Personal and Household Goods Repair and Maintenance |
-| 4-digit | Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance |
-| 4-digit | Electronic and Precision Equipment Repair and Maintenance |
-| 4-digit | Automotive Repair and Maintenance |
-| 4-digit | Restaurants and Other Eating Places |
-| 4-digit | Drinking Places (Alcoholic Beverages) |
-| 4-digit | Special Food Services |
-| 4-digit | Rooming and Boarding Houses |
-| 4-digit | Drycleaning and Laundry Services |
-| 4-digit | Warehousing and Storage |
-| 4-digit | Local Government, excluding Schools and Hospitals (OEWS Designation) |
-| 4-digit | Electric Lighting Equipment Manufacturing |
-| 4-digit | Motor Vehicle Parts Manufacturing |
-| 4-digit | Motor Vehicle Body and Trailer Manufacturing |
-| 4-digit | Motor Vehicle Manufacturing |
-| 4-digit | Other Electrical Equipment and Component Manufacturing |
-| 4-digit | Electrical Equipment Manufacturing |
-| 4-digit | Household Appliance Manufacturing |
-| 4-digit | Other Food Manufacturing |
-| 4-digit | Beverage Manufacturing |
-| 4-digit | Tobacco Manufacturing |
-| 4-digit | Aerospace Product and Parts Manufacturing |
-| 4-digit | Fiber, Yarn, and Thread Mills |
-| 4-digit | Textile and Fabric Finishing and Fabric Coating Mills |
-| 4-digit | Textile Furnishings Mills |
-| 4-digit | Other Textile Product Mills |
-| 4-digit | Apparel Knitting Mills |
-| 4-digit | Cut and Sew Apparel Manufacturing |
-| 4-digit | Local Messengers and Local Delivery |
-| 4-digit | Apparel Accessories and Other Apparel Manufacturing |
-| 4-digit | Support Activities for Mining |
-| 4-digit | Manufacturing and Reproducing Magnetic and Optical Media |
-| 4-digit | Fabric Mills |
-| 4-digit | Navigational, Measuring, Electromedical, and Control Instruments Manufacturing |
-| 4-digit | Railroad Rolling Stock Manufacturing |
-| 4-digit | Other Transportation Equipment Manufacturing |
-| 4-digit | Machinery, Equipment, and Supplies Merchant Wholesalers |
-| 4-digit | Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers |
-| 4-digit | Household Appliances and Electrical and Electronic Goods Merchant Wholesalers |
-| 4-digit | Metal and Mineral (except Petroleum) Merchant Wholesalers |
-| 4-digit | Professional and Commercial Equipment and Supplies Merchant Wholesalers |
-| 4-digit | Lumber and Other Construction Materials Merchant Wholesalers |
-| 4-digit | Furniture and Home Furnishing Merchant Wholesalers |
-| 4-digit | Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers |
-| 4-digit | Metal Ore Mining |
-| 4-digit | Ship and Boat Building |
-| 4-digit | Nonmetallic Mineral Mining and Quarrying |
-| 4-digit | Dairy Product Manufacturing |
-| 4-digit | Animal Slaughtering and Processing |
-| 4-digit | Seafood Product Preparation and Packaging |
-| 4-digit | Bakeries and Tortilla Manufacturing |
-| 4-digit | Other Miscellaneous Manufacturing |
-| 4-digit | Medical Equipment and Supplies Manufacturing |
-| 4-digit | Other Furniture Related Product Manufacturing |
-| 4-digit | Office Furniture (including Fixtures) Manufacturing |
-| 4-digit | Household and Institutional Furniture and Kitchen Cabinet Manufacturing |
-| 4-digit | Fruit and Vegetable Preserving and Specialty Food Manufacturing |
-| 4-digit | Semiconductor and Other Electronic Component Manufacturing |
-| 4-digit | Audio and Video Equipment Manufacturing |
-| 4-digit | Communications Equipment Manufacturing |
-| 4-digit | Alumina and Aluminum Production and Processing |
-| 4-digit | Steel Product Manufacturing from Purchased Steel |
-| 4-digit | Iron and Steel Mills and Ferroalloy Manufacturing |
-| 4-digit | Other Nonmetallic Mineral Product Manufacturing |
-| 4-digit | Lime and Gypsum Product Manufacturing |
-| 4-digit | Cement and Concrete Product Manufacturing |
-| 4-digit | Glass and Glass Product Manufacturing |
-| 4-digit | Clay Product and Refractory Manufacturing |
-| 4-digit | Rubber Product Manufacturing |
-| 4-digit | Nonferrous Metal (except Aluminum) Production and Processing |
-| 4-digit | Plastics Product Manufacturing |
-| 4-digit | Soap, Cleaning Compound, and Toilet Preparation Manufacturing |
-| 4-digit | Other Wood Product Manufacturing |
-| 4-digit | Pulp, Paper, and Paperboard Mills |
-| 4-digit | Converted Paper Product Manufacturing |
-| 4-digit | Paint, Coating, and Adhesive Manufacturing |
-| 4-digit | Pharmaceutical and Medicine Manufacturing |
-| 4-digit | Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing |
-| 4-digit | Resin, Synthetic Rubber, and Artificial Synthetic Fibers and Filaments Manufacturing |
-| 4-digit | Basic Chemical Manufacturing |
-| 4-digit | Other Chemical Product and Preparation Manufacturing |
-| 4-digit | Foundries |
-| 4-digit | Forging and Stamping |
-| 4-digit | Cutlery and Handtool Manufacturing |
-| 4-digit | Computer and Peripheral Equipment Manufacturing |
-| 4-digit | Other General Purpose Machinery Manufacturing |
-| 4-digit | Engine, Turbine, and Power Transmission Equipment Manufacturing |
-| 4-digit | Metalworking Machinery Manufacturing |
-| 4-digit | Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing |
-| 4-digit | Commercial and Service Industry Machinery Manufacturing |
-| 4-digit | Industrial Machinery Manufacturing |
-| 4-digit | Leather and Hide Tanning and Finishing |
-| 4-digit | Footwear Manufacturing |
-| 4-digit | Other Leather and Allied Product Manufacturing |
-| 4-digit | Agriculture, Construction, and Mining Machinery Manufacturing |
-| 4-digit | Other Fabricated Metal Product Manufacturing |
-| 4-digit | Coating, Engraving, Heat Treating, and Allied Activities |
-| 4-digit | Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing |
-| 4-digit | Spring and Wire Product Manufacturing |
-| 4-digit | Hardware Manufacturing |
-| 4-digit | Boiler, Tank, and Shipping Container Manufacturing |
-| 4-digit | Architectural and Structural Metals Manufacturing |
-| 4-digit | Sawmills and Wood Preservation |
-| 4-digit | Veneer, Plywood, and Engineered Wood Product Manufacturing |
-| 4-digit | Electric Power Generation, Transmission and Distribution |
-| 4-digit | Sugar and Confectionery Product Manufacturing |
-| 4-digit | Petroleum and Coal Products Manufacturing |
-| 4-digit | Natural Gas Distribution |
-| 4-digit | Animal Food Manufacturing |
-| 4-digit | Specialized Freight Trucking |
-| 4-digit | General Freight Trucking |
-| 4-digit | Inland Water Transportation |
-| 4-digit | Deep Sea, Coastal, and Great Lakes Water Transportation |
-| 4-digit | Rail Transportation |
-| 4-digit | Nonscheduled Air Transportation |
-| 4-digit | Scheduled Air Transportation |
-| 4-digit | Land Subdivision |
-| 4-digit | Direct Selling Establishments |
-| 4-digit | Urban Transit Systems |
-| 4-digit | Vending Machine Operators |
-| 4-digit | Other Miscellaneous Store Retailers |
-| 4-digit | Used Merchandise Stores |
-| 4-digit | Highway, Street, and Bridge Construction |
-| 4-digit | Other Heavy and Civil Engineering Construction |
-| 4-digit | Foundation, Structure, and Building Exterior Contractors |
-| 4-digit | Building Equipment Contractors |
-| 4-digit | Building Finishing Contractors |
-| 4-digit | Support Activities for Crop Production |
-| 4-digit | Grain and Oilseed Milling |
-| 4-digit | Electronic Shopping and Mail-Order Houses |
-| 4-digit | Florists |
-| 4-digit | Interurban and Rural Bus Transportation |
-| 4-digit | Utility System Construction |
-| 4-digit | Couriers and Express Delivery Services |
-| 4-digit | Postal Service |
-| 4-digit | Other Support Activities for Transportation |
-| 4-digit | Freight Transportation Arrangement |
-| 4-digit | Support Activities for Road Transportation |
-| 4-digit | Support Activities for Water Transportation |
-| 4-digit | Support Activities for Rail Transportation |
-| 4-digit | Support Activities for Air Transportation |
-| 4-digit | Scenic and Sightseeing Transportation, Other |
-| 4-digit | Logging |
-| 4-digit | Scenic and Sightseeing Transportation, Water |
-| 4-digit | Other Pipeline Transportation |
-| 4-digit | Pipeline Transportation of Natural Gas |
-| 4-digit | Pipeline Transportation of Crude Oil |
-| 4-digit | Other Transit and Ground Passenger Transportation |
-| 4-digit | Charter Bus Industry |
-| 4-digit | School and Employee Bus Transportation |
-| 4-digit | Taxi and Limousine Service |
-| 4-digit | Residential Building Construction |
-| 4-digit | Nonresidential Building Construction |
-| 4-digit | Scenic and Sightseeing Transportation, Land |
-| 4-digit | Other General Merchandise Stores |
-| 4-digit | Office Supplies, Stationery, and Gift Stores |
-| 4-digit | Book Stores and News Dealers |
-| 4-digit | Automobile Dealers |
-| 4-digit | Oil and Gas Extraction |
-| 4-digit | Coal Mining |
-| 4-digit | Wholesale Electronic Markets and Agents and Brokers |
-| 4-digit | Miscellaneous Nondurable Goods Merchant Wholesalers |
-| 4-digit | Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers |
-| 4-digit | Petroleum and Petroleum Products Merchant Wholesalers |
-| 4-digit | Chemical and Allied Products Merchant Wholesalers |
-| 4-digit | Farm Product Raw Material Merchant Wholesalers |
-| 4-digit | Grocery and Related Product Merchant Wholesalers |
-| 4-digit | Apparel, Piece Goods, and Notions Merchant Wholesalers |
-| 4-digit | Drugs and Druggists' Sundries Merchant Wholesalers |
-| 4-digit | Paper and Paper Product Merchant Wholesalers |
-| 4-digit | Miscellaneous Durable Goods Merchant Wholesalers |
-| 4-digit | Water, Sewage and Other Systems |
-| 4-digit | Other Motor Vehicle Dealers |
-| 4-digit | Department Stores |
-| 4-digit | Printing and Related Support Activities |
-| 4-digit | Specialty Food Stores |
-| 4-digit | Gasoline Stations |
-| 4-digit | Support Activities for Animal Production |
-| 4-digit | Health and Personal Care Stores |
-| 4-digit | Beer, Wine, and Liquor Stores |
-| 4-digit | Automotive Parts, Accessories, and Tire Stores |
-| 4-digit | Grocery Stores |
-| 4-digit | Lawn and Garden Equipment and Supplies Stores |
-| 4-digit | Jewelry, Luggage, and Leather Goods Stores |
-| 4-digit | Clothing Stores |
-| 4-digit | Building Material and Supplies Dealers |
-| 4-digit | Electronics and Appliance Stores |
-| 4-digit | Home Furnishings Stores |
-| 4-digit | Furniture Stores |
-| 4-digit | Other Specialty Trade Contractors |
-| 4-digit | Sporting Goods, Hobby, and Musical Instrument Stores |
-| 4-digit | Shoe Stores |
-| 5-digit | Electric Power Transmission, Control, and Distribution |
-| 5-digit | Painting And Wall Covering Contractors |
-| 5-digit | Drywall And Insulation Contractors |
-| 5-digit | Painting and Wall Covering Contractors |
-| 5-digit | Electric Power Generation |
-| 5-digit | Power and Communication Line and Related Structures Construction |
-| 5-digit | Pharmacies and Drug Retailers |
-| 5-digit | Sporting Goods Retailers |
-| 5-digit | Plumbing, Heating, and Air-Conditioning Contractors |
-| 5-digit | Electrical Contractors and Other Wiring Installation Contractors |
-| 5-digit | Roofing Contractors |
-| 5-digit | Masonry Contractors |
-| 5-digit | Poured Concrete Foundation and Structure Contractors |
-| 5-digit | Drywall and Insulation Contractors |
-| 5-digit | Other Building Equipment Contractors |
-| 5-digit | Residential Mental Health and Substance Abuse Facilities |
-| 5-digit | Television Broadcasting Stations |
-| 5-digit | Exterminating and Pest Control Services |
-| 5-digit | Radio Broadcasting Stations |
-| 5-digit | Investigation, Guard, and Armored Car Services |
-| 5-digit | Travel Agencies |
-| 5-digit | Telephone Call Centers |
-| 5-digit | Temporary Help Services |
-| 5-digit | Farm and Garden Machinery and Equipment Merchant Wholesalers |
-| 5-digit | Veterinary Services |
-| 5-digit | Photographic Services |
-| 5-digit | Research and Development in the Social Sciences and Humanities |
-| 5-digit | Research and Development in the Physical, Engineering, and Life Sciences |
-| 5-digit | Testing Laboratories |
-| 5-digit | Engineering Services |
-| 5-digit | Pharmacies and Drug Stores |
-| 5-digit | Other Insurance Related Activities |
-| 5-digit | Insurance Agencies and Brokerages |
-| 5-digit | Direct Insurance (except Life, Health, and Medical) Carriers |
-| 5-digit | Other Nondepository Credit Intermediation |
-| 5-digit | Sporting Goods Stores |
-| 5-digit | Television Broadcasting |
-| 5-digit | Radio Broadcasting |
-| 5-digit | Motion Picture and Video Exhibition |
-| 5-digit | Newspaper Publishers |
-| 5-digit | Landscaping Services |
-| 5-digit | Testing Laboratories and Services |
-| 5-digit | Security Systems Services |
-| 5-digit | Household and Institutional Furniture Manufacturing |
-| 5-digit | Automotive Body, Paint, Interior, and Glass Repair |
-| 5-digit | Automotive Mechanical and Electrical Repair and Maintenance |
-| 5-digit | Casino Hotels |
-| 5-digit | Fitness and Recreational Sports Centers |
-| 5-digit | Jewelry and Silverware Manufacturing |
-| 5-digit | Theater Companies and Dinner Theaters |
-| 5-digit | Services for the Elderly and Persons with Disabilities |
-| 5-digit | Residential Intellectual and Developmental Disability Facilities |
-| 5-digit | Other Automotive Repair and Maintenance |
-| 5-digit | Ambulance Services |
-| 5-digit | All Other Ambulatory Health Care Services |
-| 5-digit | Offices of All Other Health Practitioners |
-| 5-digit | Offices of Physical, Occupational and Speech Therapists, and Audiologists |
-| 5-digit | Offices of Mental Health Practitioners (except Physicians) |
-| 5-digit | Offices of Optometrists |
-| 5-digit | Offices of Chiropractors |
-| 5-digit | Machine Shops |
-| 5-digit | Turned Product and Screw, Nut, and Bolt Manufacturing |
-| 5-digit | Wood Kitchen Cabinet and Countertop Manufacturing |
-| 5-digit | Outpatient Mental Health and Substance Abuse Centers |
-| 5-digit | Labor Unions and Similar Labor Organizations |
-| 6-digit | Other Electric Power Generation |
-| 6-digit | Solar Electric Power Generation |
-| 6-digit | Wind Electric Power Generation |
-| 6-digit | Geothermal Electric Power Generation |
-| 6-digit | Biomass Electric Power Generation |
-| 6-digit | Direct Health and Medical Insurance Carriers |
-| 6-digit | Full-Service Restaurants |
-| 6-digit | Nuclear Electric Power Generation |
-| 6-digit | Hydroelectric Power Generation |
-| 6-digit | Fossil Fuel Electric Power Generation |
-| sector | Federal, State, and Local Government, excluding State and Local Government Schools and Hospitals and the U.S. Postal Service (OEWS Designation) |
-| sector | Utilities |
-| sector | Mining, Quarrying, and Oil and Gas Extraction |
-| sector | Information |
-| sector | Manufacturing |
-| sector | Finance and Insurance |
-| sector | Transportation and Warehousing |
-| sector | Real Estate and Rental and Leasing |
-| sector | Professional, Scientific, and Technical Services |
-| sector | Management of Companies and Enterprises |
-| sector | Administrative and Support and Waste Management and Remediation Services |
-| sector | Retail Trade |
-| sector | Construction |
-| sector | Educational Services |
-| sector | Wholesale Trade |
-| sector | Arts, Entertainment, and Recreation |
-| sector | Accommodation and Food Services |
-| sector | Other Services (except Public Administration) |
-| sector | Federal, State, and Local Government (excluding state and local schools and hospitals) |
-| sector | Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation) |
-| sector | Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OEWS Designation) |
-| sector | Health Care and Social Assistance |
-| sector | Agriculture, Forestry, Fishing and Hunting |
+<details>
+<summary>Click to expand industry list (549 industries)</summary>
+
+| Industry |
+|----------|
+| Telecommunications |
+| Machinery Manufacturing |
+| Fabricated Metal Product Manufacturing |
+| Primary Metal Manufacturing |
+| Professional, Scientific, and Technical Services |
+| Federal, State, and Local Government (excluding state and local schools and hospitals) |
+| Sporting Goods, Hobby, Musical Instrument, and Book Stores |
+| General Merchandise Stores |
+| Miscellaneous Store Retailers |
+| Nonstore Retailers |
+| Postal Service (federal government) |
+| Nonmetallic Mineral Product Manufacturing |
+| Plastics and Rubber Products Manufacturing |
+| Computer and Electronic Product Manufacturing |
+| Chemical Manufacturing |
+| Printing and Related Support Activities |
+| Paper Manufacturing |
+| Wood Product Manufacturing |
+| Lessors of Nonfinancial Intangible Assets (except Copyrighted Works) |
+| Rental and Leasing Services |
+| Real Estate |
+| Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation) |
+| Air Transportation |
+| Rail Transportation |
+| Water Transportation |
+| Truck Transportation |
+| Transit and Ground Passenger Transportation |
+| Ambulatory Health Care Services |
+| Electrical Equipment, Appliance, and Component Manufacturing |
+| Transportation Equipment Manufacturing |
+| Furniture and Related Product Manufacturing |
+| Hospitals |
+| Nursing and Residential Care Facilities |
+| Social Assistance |
+| Merchant Wholesalers, Nondurable Goods |
+| Wholesale Electronic Markets and Agents and Brokers |
+| Educational Services |
+| Performing Arts, Spectator Sports, and Related Industries |
+| Museums, Historical Sites, and Similar Institutions |
+| Amusement, Gambling, and Recreation Industries |
+| Waste Management and Remediation Services |
+| Publishing Industries (except Internet) |
+| Administrative and Support Services |
+| Motor Vehicle and Parts Dealers |
+| Furniture and Home Furnishings Stores |
+| Electronics and Appliance Stores |
+| Accommodation |
+| Food Services and Drinking Places |
+| Building Material and Garden Equipment and Supplies Dealers |
+| Food and Beverage Stores |
+| Health and Personal Care Stores |
+| Gasoline Stations |
+| Clothing and Clothing Accessories Stores |
+| Repair and Maintenance |
+| Personal and Laundry Services |
+| Religious, Grantmaking, Civic, Professional, and Similar Organizations |
+| Management of Companies and Enterprises |
+| Miscellaneous Manufacturing |
+| Pipeline Transportation |
+| Scenic and Sightseeing Transportation |
+| Petroleum and Coal Products Manufacturing |
+| Heavy and Civil Engineering Construction |
+| Gasoline Stations and Fuel Dealers |
+| Clothing, Clothing Accessories, Shoe, and Jewelry Retailers |
+| Specialty Trade Contractors |
+| Support Activities for Transportation |
+| Construction of Buildings |
+| Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers |
+| Publishing Industries |
+| Broadcasting and Content Providers |
+| Other Information Services |
+| Data Processing, Hosting, and Related Services |
+| Utilities |
+| Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services |
+| Web Search Portals, Libraries, Archives, and Other Information Services |
+| Broadcasting (except Internet) |
+| Postal Service |
+| Couriers and Messengers |
+| Support Activities for Mining |
+| Mining (except Oil and Gas) |
+| Oil and Gas Extraction |
+| Postal Service (Federal Government) |
+| Warehousing and Storage |
+| Motion Picture and Sound Recording Industries |
+| Federal, State, and Local Government, excluding State and Local Government Schools and Hospitals and the U.S. Postal Service (OEWS Designation) |
+| Support Activities for Agriculture and Forestry |
+| Forestry and Logging |
+| Health and Personal Care Retailers |
+| General Merchandise Retailers |
+| Merchant Wholesalers, Durable Goods |
+| Food and Beverage Retailers |
+| Textile Mills |
+| Furniture, Home Furnishings, Electronics, and Appliance Retailers |
+| Beverage and Tobacco Product Manufacturing |
+| Credit Intermediation and Related Activities |
+| Funds, Trusts, and Other Financial Vehicles |
+| Wholesale Trade Agents and Brokers |
+| Insurance Carriers and Related Activities |
+| Securities, Commodity Contracts, and Other Financial Investments and Related Activities |
+| Textile Product Mills |
+| Apparel Manufacturing |
+| Leather and Allied Product Manufacturing |
+| Food Manufacturing |
+| Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OEWS Designation) |
+| Monetary Authorities-Central Bank |
+| Securities and Commodity Exchanges |
+| Other Information Services |
+| Office Administrative Services |
+| Employment Services |
+| Facilities Support Services |
+| Securities and Commodity Contracts Intermediation and Brokerage |
+| Insurance Carriers |
+| Agencies, Brokerages, and Other Insurance Related Activities |
+| Insurance and Employee Benefit Funds |
+| Other Financial Investment Activities |
+| Business Support Services |
+| Services to Buildings and Dwellings |
+| Investigation and Security Services |
+| Other Support Services |
+| Waste Collection |
+| Waste Treatment and Disposal |
+| Remediation and Other Waste Management Services |
+| Elementary and Secondary Schools |
+| Junior Colleges |
+| Colleges, Universities, and Professional Schools |
+| Business Schools and Computer and Management Training |
+| Technical and Trade Schools |
+| Other Schools and Instruction |
+| Educational Support Services |
+| Nondepository Credit Intermediation |
+| Travel Arrangement and Reservation Services |
+| Other Investment Pools and Funds |
+| Monetary Authorities-Central Bank |
+| Depository Credit Intermediation |
+| Data Processing, Hosting, and Related Services |
+| Offices of Real Estate Agents and Brokers |
+| Other Telecommunications |
+| Automotive Equipment Rental and Leasing |
+| Consumer Goods Rental |
+| General Rental Centers |
+| Commercial and Industrial Machinery and Equipment Rental and Leasing |
+| Lessors of Nonfinancial Intangible Assets (except Copyrighted Works) |
+| Satellite Telecommunications |
+| Legal Services |
+| Accounting, Tax Preparation, Bookkeeping, and Payroll Services |
+| Architectural, Engineering, and Related Services |
+| Specialized Design Services |
+| Computer Systems Design and Related Services |
+| Management, Scientific, and Technical Consulting Services |
+| Lessors of Real Estate |
+| Wireless Telecommunications Carriers (except Satellite) |
+| Wired Telecommunications Carriers |
+| Cable and Other Subscription Programming |
+| Scientific Research and Development Services |
+| Advertising, Public Relations, and Related Services |
+| Other Professional, Scientific, and Technical Services |
+| Radio and Television Broadcasting |
+| Sound Recording Industries |
+| Motion Picture and Video Industries |
+| Management of Companies and Enterprises |
+| Software Publishers |
+| Newspaper, Periodical, Book, and Directory Publishers |
+| Activities Related to Real Estate |
+| State Government, excluding Schools and Hospitals (OEWS Designation) |
+| Activities Related to Credit Intermediation |
+| Independent Artists, Writers, and Performers |
+| Offices of Dentists |
+| State Government, excluding schools and hospitals (OEWS Designation) |
+| Federal Executive Branch (OEWS Designation) |
+| Rental and Leasing Services (5322, 5323, and 5324 only) |
+| Credit Intermediation and Related Activities (5221 And 5223 only) |
+| Miscellaneous Store Retailers (4532 and 4533 only) |
+| Food and Beverage Stores (4451 and 4452 only) |
+| Merchant Wholesalers, Nondurable Goods (4241, 4247, and 4249 only) |
+| Merchant Wholesalers, Nondurable Goods (4242 and 4246 only) |
+| Merchant Wholesalers, Nondurable Goods (4244 and 4248 only) |
+| Merchant Wholesalers, Durable Goods (4232, 4233, 4235, 4236, 4237, and 4239 only) |
+| Local Government, excluding schools and hospitals (OEWS Designation) |
+| Furniture and Related Product Manufacturing (3371 and 3372 only) |
+| Fabricated Metal Product Manufacturing (3323 and 3324 only) |
+| Fabricated Metal Product Manufacturing (3321, 3322, 3325, 3326, and 3329 only) |
+| Chemical Manufacturing (3255 and 3256 only) |
+| Chemical Manufacturing (3251, 3252, 3253, and 3259 only) |
+| Local Government, excluding schools and hospitals (OES Designation) |
+| State Government, excluding schools and hospitals (OES Designation) |
+| Real Estate |
+| Securities, Commodity Contracts, and Other Financial Investments and Related Activities |
+| Telecommunications |
+| Postal Service (federal government) |
+| Machinery Manufacturing (3331, 3332, 3334, and 3339 only) |
+| Truck Transportation |
+| Wholesale Trade Agents and Brokers |
+| Lawn and Garden Equipment and Supplies Retailers |
+| Credit Intermediation and Related Activities (5221 and 5223 only) |
+| Postal Service (Federal Government) |
+| Rooming and Boarding Houses, Dormitories, and Workers' Camps |
+| Child Care Services |
+| Web Search Portals, Libraries, Archives, and Other Information Services |
+| Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services |
+| Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers |
+| Radio and Television Broadcasting Stations |
+| Miscellaneous Store Retailers (4594 and 4595 only) |
+| Other Miscellaneous Retailers |
+| Automotive Parts, Accessories, and Tire Retailers |
+| Book Retailers and News Dealers |
+| Jewelry, Luggage, and Leather Goods Retailers |
+| Shoe Retailers |
+| Clothing and Clothing Accessories Retailers |
+| Fuel Dealers |
+| Health and Personal Care Retailers |
+| General Merchandise Retailers |
+| Food and Beverage Retailers (4451 and 4452 only) |
+| Electronics and Appliance Retailers |
+| Furniture and Home Furnishings Retailers |
+| Beer, Wine, and Liquor Retailers |
+| Sporting Goods, Hobby, and Musical Instrument Retailers |
+| Offices of Physicians |
+| General Merchandise Stores |
+| Local Government |
+| Amusement Parks and Arcades |
+| Museums, Historical Sites, and Similar Institutions |
+| Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures |
+| Promoters of Performing Arts, Sports, and Similar Events |
+| Spectator Sports |
+| Performing Arts Companies |
+| Child Day Care Services |
+| Vocational Rehabilitation Services |
+| Community Food and Housing, and Emergency and Other Relief Services |
+| Individual and Family Services |
+| Gambling Industries |
+| Other Residential Care Facilities |
+| Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities |
+| Nursing Care Facilities (Skilled Nursing Facilities) |
+| Specialty (except Psychiatric and Substance Abuse) Hospitals |
+| Psychiatric and Substance Abuse Hospitals |
+| General Medical and Surgical Hospitals |
+| Other Ambulatory Health Care Services |
+| Home Health Care Services |
+| Medical and Diagnostic Laboratories |
+| Outpatient Care Centers |
+| Offices of Other Health Practitioners |
+| Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly |
+| Nonmetallic Mineral Product Manufacturing |
+| Other Amusement and Recreation Industries |
+| RV (Recreational Vehicle) Parks and Recreational Camps |
+| State Government |
+| Federal Government |
+| Local Government (OES Designation) |
+| State Government (OES Designation) |
+| Federal Executive Branch (OES Designation) |
+| Business, Professional, Labor, Political, and Similar Organizations |
+| Civic and Social Organizations |
+| Social Advocacy Organizations |
+| Grantmaking and Giving Services |
+| Religious Organizations |
+| Traveler Accommodation |
+| Other Personal Services |
+| Death Care Services |
+| Personal Care Services |
+| Personal and Household Goods Repair and Maintenance |
+| Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance |
+| Electronic and Precision Equipment Repair and Maintenance |
+| Automotive Repair and Maintenance |
+| Restaurants and Other Eating Places |
+| Drinking Places (Alcoholic Beverages) |
+| Special Food Services |
+| Rooming and Boarding Houses |
+| Drycleaning and Laundry Services |
+| Warehousing and Storage |
+| Local Government, excluding Schools and Hospitals (OEWS Designation) |
+| Electric Lighting Equipment Manufacturing |
+| Motor Vehicle Parts Manufacturing |
+| Motor Vehicle Body and Trailer Manufacturing |
+| Motor Vehicle Manufacturing |
+| Other Electrical Equipment and Component Manufacturing |
+| Electrical Equipment Manufacturing |
+| Household Appliance Manufacturing |
+| Other Food Manufacturing |
+| Beverage Manufacturing |
+| Tobacco Manufacturing |
+| Aerospace Product and Parts Manufacturing |
+| Fiber, Yarn, and Thread Mills |
+| Textile and Fabric Finishing and Fabric Coating Mills |
+| Textile Furnishings Mills |
+| Other Textile Product Mills |
+| Apparel Knitting Mills |
+| Cut and Sew Apparel Manufacturing |
+| Local Messengers and Local Delivery |
+| Apparel Accessories and Other Apparel Manufacturing |
+| Support Activities for Mining |
+| Manufacturing and Reproducing Magnetic and Optical Media |
+| Fabric Mills |
+| Navigational, Measuring, Electromedical, and Control Instruments Manufacturing |
+| Railroad Rolling Stock Manufacturing |
+| Other Transportation Equipment Manufacturing |
+| Machinery, Equipment, and Supplies Merchant Wholesalers |
+| Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers |
+| Household Appliances and Electrical and Electronic Goods Merchant Wholesalers |
+| Metal and Mineral (except Petroleum) Merchant Wholesalers |
+| Professional and Commercial Equipment and Supplies Merchant Wholesalers |
+| Lumber and Other Construction Materials Merchant Wholesalers |
+| Furniture and Home Furnishing Merchant Wholesalers |
+| Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers |
+| Metal Ore Mining |
+| Ship and Boat Building |
+| Nonmetallic Mineral Mining and Quarrying |
+| Dairy Product Manufacturing |
+| Animal Slaughtering and Processing |
+| Seafood Product Preparation and Packaging |
+| Bakeries and Tortilla Manufacturing |
+| Other Miscellaneous Manufacturing |
+| Medical Equipment and Supplies Manufacturing |
+| Other Furniture Related Product Manufacturing |
+| Office Furniture (including Fixtures) Manufacturing |
+| Household and Institutional Furniture and Kitchen Cabinet Manufacturing |
+| Fruit and Vegetable Preserving and Specialty Food Manufacturing |
+| Semiconductor and Other Electronic Component Manufacturing |
+| Audio and Video Equipment Manufacturing |
+| Communications Equipment Manufacturing |
+| Alumina and Aluminum Production and Processing |
+| Steel Product Manufacturing from Purchased Steel |
+| Iron and Steel Mills and Ferroalloy Manufacturing |
+| Other Nonmetallic Mineral Product Manufacturing |
+| Lime and Gypsum Product Manufacturing |
+| Cement and Concrete Product Manufacturing |
+| Glass and Glass Product Manufacturing |
+| Clay Product and Refractory Manufacturing |
+| Rubber Product Manufacturing |
+| Nonferrous Metal (except Aluminum) Production and Processing |
+| Plastics Product Manufacturing |
+| Soap, Cleaning Compound, and Toilet Preparation Manufacturing |
+| Other Wood Product Manufacturing |
+| Pulp, Paper, and Paperboard Mills |
+| Converted Paper Product Manufacturing |
+| Paint, Coating, and Adhesive Manufacturing |
+| Pharmaceutical and Medicine Manufacturing |
+| Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing |
+| Resin, Synthetic Rubber, and Artificial Synthetic Fibers and Filaments Manufacturing |
+| Basic Chemical Manufacturing |
+| Other Chemical Product and Preparation Manufacturing |
+| Foundries |
+| Forging and Stamping |
+| Cutlery and Handtool Manufacturing |
+| Computer and Peripheral Equipment Manufacturing |
+| Other General Purpose Machinery Manufacturing |
+| Engine, Turbine, and Power Transmission Equipment Manufacturing |
+| Metalworking Machinery Manufacturing |
+| Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing |
+| Commercial and Service Industry Machinery Manufacturing |
+| Industrial Machinery Manufacturing |
+| Leather and Hide Tanning and Finishing |
+| Footwear Manufacturing |
+| Other Leather and Allied Product Manufacturing |
+| Agriculture, Construction, and Mining Machinery Manufacturing |
+| Other Fabricated Metal Product Manufacturing |
+| Coating, Engraving, Heat Treating, and Allied Activities |
+| Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing |
+| Spring and Wire Product Manufacturing |
+| Hardware Manufacturing |
+| Boiler, Tank, and Shipping Container Manufacturing |
+| Architectural and Structural Metals Manufacturing |
+| Sawmills and Wood Preservation |
+| Veneer, Plywood, and Engineered Wood Product Manufacturing |
+| Electric Power Generation, Transmission and Distribution |
+| Sugar and Confectionery Product Manufacturing |
+| Petroleum and Coal Products Manufacturing |
+| Natural Gas Distribution |
+| Animal Food Manufacturing |
+| Specialized Freight Trucking |
+| General Freight Trucking |
+| Inland Water Transportation |
+| Deep Sea, Coastal, and Great Lakes Water Transportation |
+| Rail Transportation |
+| Nonscheduled Air Transportation |
+| Scheduled Air Transportation |
+| Land Subdivision |
+| Direct Selling Establishments |
+| Urban Transit Systems |
+| Vending Machine Operators |
+| Other Miscellaneous Store Retailers |
+| Used Merchandise Stores |
+| Highway, Street, and Bridge Construction |
+| Other Heavy and Civil Engineering Construction |
+| Foundation, Structure, and Building Exterior Contractors |
+| Building Equipment Contractors |
+| Building Finishing Contractors |
+| Support Activities for Crop Production |
+| Grain and Oilseed Milling |
+| Electronic Shopping and Mail-Order Houses |
+| Florists |
+| Interurban and Rural Bus Transportation |
+| Utility System Construction |
+| Couriers and Express Delivery Services |
+| Postal Service |
+| Other Support Activities for Transportation |
+| Freight Transportation Arrangement |
+| Support Activities for Road Transportation |
+| Support Activities for Water Transportation |
+| Support Activities for Rail Transportation |
+| Support Activities for Air Transportation |
+| Scenic and Sightseeing Transportation, Other |
+| Logging |
+| Scenic and Sightseeing Transportation, Water |
+| Other Pipeline Transportation |
+| Pipeline Transportation of Natural Gas |
+| Pipeline Transportation of Crude Oil |
+| Other Transit and Ground Passenger Transportation |
+| Charter Bus Industry |
+| School and Employee Bus Transportation |
+| Taxi and Limousine Service |
+| Residential Building Construction |
+| Nonresidential Building Construction |
+| Scenic and Sightseeing Transportation, Land |
+| Other General Merchandise Stores |
+| Office Supplies, Stationery, and Gift Stores |
+| Book Stores and News Dealers |
+| Automobile Dealers |
+| Oil and Gas Extraction |
+| Coal Mining |
+| Wholesale Electronic Markets and Agents and Brokers |
+| Miscellaneous Nondurable Goods Merchant Wholesalers |
+| Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers |
+| Petroleum and Petroleum Products Merchant Wholesalers |
+| Chemical and Allied Products Merchant Wholesalers |
+| Farm Product Raw Material Merchant Wholesalers |
+| Grocery and Related Product Merchant Wholesalers |
+| Apparel, Piece Goods, and Notions Merchant Wholesalers |
+| Drugs and Druggists' Sundries Merchant Wholesalers |
+| Paper and Paper Product Merchant Wholesalers |
+| Miscellaneous Durable Goods Merchant Wholesalers |
+| Water, Sewage and Other Systems |
+| Other Motor Vehicle Dealers |
+| Department Stores |
+| Printing and Related Support Activities |
+| Specialty Food Stores |
+| Gasoline Stations |
+| Support Activities for Animal Production |
+| Health and Personal Care Stores |
+| Beer, Wine, and Liquor Stores |
+| Automotive Parts, Accessories, and Tire Stores |
+| Grocery Stores |
+| Lawn and Garden Equipment and Supplies Stores |
+| Jewelry, Luggage, and Leather Goods Stores |
+| Clothing Stores |
+| Building Material and Supplies Dealers |
+| Electronics and Appliance Stores |
+| Home Furnishings Stores |
+| Furniture Stores |
+| Other Specialty Trade Contractors |
+| Sporting Goods, Hobby, and Musical Instrument Stores |
+| Shoe Stores |
+| Electric Power Transmission, Control, and Distribution |
+| Painting And Wall Covering Contractors |
+| Drywall And Insulation Contractors |
+| Painting and Wall Covering Contractors |
+| Electric Power Generation |
+| Power and Communication Line and Related Structures Construction |
+| Pharmacies and Drug Retailers |
+| Sporting Goods Retailers |
+| Plumbing, Heating, and Air-Conditioning Contractors |
+| Electrical Contractors and Other Wiring Installation Contractors |
+| Roofing Contractors |
+| Masonry Contractors |
+| Poured Concrete Foundation and Structure Contractors |
+| Drywall and Insulation Contractors |
+| Other Building Equipment Contractors |
+| Residential Mental Health and Substance Abuse Facilities |
+| Television Broadcasting Stations |
+| Exterminating and Pest Control Services |
+| Radio Broadcasting Stations |
+| Investigation, Guard, and Armored Car Services |
+| Travel Agencies |
+| Telephone Call Centers |
+| Temporary Help Services |
+| Farm and Garden Machinery and Equipment Merchant Wholesalers |
+| Veterinary Services |
+| Photographic Services |
+| Research and Development in the Social Sciences and Humanities |
+| Research and Development in the Physical, Engineering, and Life Sciences |
+| Testing Laboratories |
+| Engineering Services |
+| Pharmacies and Drug Stores |
+| Other Insurance Related Activities |
+| Insurance Agencies and Brokerages |
+| Direct Insurance (except Life, Health, and Medical) Carriers |
+| Other Nondepository Credit Intermediation |
+| Sporting Goods Stores |
+| Television Broadcasting |
+| Radio Broadcasting |
+| Motion Picture and Video Exhibition |
+| Newspaper Publishers |
+| Landscaping Services |
+| Testing Laboratories and Services |
+| Security Systems Services |
+| Household and Institutional Furniture Manufacturing |
+| Automotive Body, Paint, Interior, and Glass Repair |
+| Automotive Mechanical and Electrical Repair and Maintenance |
+| Casino Hotels |
+| Fitness and Recreational Sports Centers |
+| Jewelry and Silverware Manufacturing |
+| Theater Companies and Dinner Theaters |
+| Services for the Elderly and Persons with Disabilities |
+| Residential Intellectual and Developmental Disability Facilities |
+| Other Automotive Repair and Maintenance |
+| Ambulance Services |
+| All Other Ambulatory Health Care Services |
+| Offices of All Other Health Practitioners |
+| Offices of Physical, Occupational and Speech Therapists, and Audiologists |
+| Offices of Mental Health Practitioners (except Physicians) |
+| Offices of Optometrists |
+| Offices of Chiropractors |
+| Machine Shops |
+| Turned Product and Screw, Nut, and Bolt Manufacturing |
+| Wood Kitchen Cabinet and Countertop Manufacturing |
+| Outpatient Mental Health and Substance Abuse Centers |
+| Labor Unions and Similar Labor Organizations |
+| Other Electric Power Generation |
+| Solar Electric Power Generation |
+| Wind Electric Power Generation |
+| Geothermal Electric Power Generation |
+| Biomass Electric Power Generation |
+| Direct Health and Medical Insurance Carriers |
+| Full-Service Restaurants |
+| Nuclear Electric Power Generation |
+| Hydroelectric Power Generation |
+| Fossil Fuel Electric Power Generation |
+| Federal, State, and Local Government, excluding State and Local Government Schools and Hospitals and the U.S. Postal Service (OEWS Designation) |
+| Utilities |
+| Mining, Quarrying, and Oil and Gas Extraction |
+| Information |
+| Manufacturing |
+| Finance and Insurance |
+| Transportation and Warehousing |
+| Real Estate and Rental and Leasing |
+| Professional, Scientific, and Technical Services |
+| Management of Companies and Enterprises |
+| Administrative and Support and Waste Management and Remediation Services |
+| Retail Trade |
+| Construction |
+| Educational Services |
+| Wholesale Trade |
+| Arts, Entertainment, and Recreation |
+| Accommodation and Food Services |
+| Other Services (except Public Administration) |
+| Federal, State, and Local Government (excluding state and local schools and hospitals) |
+| Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation) |
+| Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OEWS Designation) |
+| Health Care and Social Assistance |
+| Agriculture, Forestry, Fishing and Hunting |
+
+</details>
 
 ### Occupations
 

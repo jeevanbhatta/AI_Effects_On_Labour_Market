@@ -44,22 +44,24 @@ with open(OUTPUT_FILE, 'w') as f:
     f.write('### States\n\n')
     states = df[['State_Code', 'State']].drop_duplicates().sort_values('State_Code')
     f.write(f'**Total unique states:** {len(states)}\n\n')
+    f.write('<details>\n<summary>Click to expand state list ({} states)</summary>\n\n'.format(len(states)))
     f.write('| Code | State |\n')
     f.write('|------|-------|\n')
     for _, row in states.iterrows():
         f.write(f'| {row["State_Code"]} | {row["State"]} |\n')
-    f.write('\n')
+    f.write('\n</details>\n\n')
     
     # Industries
     print("  Processing industries...")
     f.write('### Industries\n\n')
     industries = df[['Industry_Code', 'Industry']].drop_duplicates().sort_values('Industry_Code')
     f.write(f'**Total unique industries:** {len(industries)}\n\n')
-    f.write('| Code | Industry |\n')
-    f.write('|------|----------|\n')
+    f.write('<details>\n<summary>Click to expand industry list ({} industries)</summary>\n\n'.format(len(industries)))
+    f.write('| Industry |\n')
+    f.write('|----------|\n')
     for _, row in industries.iterrows():
-        f.write(f'| {row["Industry_Code"]} | {row["Industry"]} |\n')
-    f.write('\n')
+        f.write(f'| {row["Industry"]} |\n')
+    f.write('\n</details>\n\n')
     
     # Occupations
     print("  Processing occupations...")
