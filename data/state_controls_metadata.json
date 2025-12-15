@@ -1,0 +1,22 @@
+{
+  "source": "BLS Local Area Unemployment Statistics (LAUS)",
+  "series_ids_sample": [
+    "LASST010000000000003",
+    "LASST010000000000006",
+    "LASST010000000000005",
+    "LASST010000000000000",
+    "LASST020000000000003"
+  ],
+  "fetch_date": "2025-12-15T18:49:27.319584",
+  "start_period": "2015-01",
+  "end_period": "2025-09",
+  "n_states": 51,
+  "n_observations": 6579,
+  "variables": {
+    "UnemploymentRate": "State unemployment rate (%)",
+    "LFPR": "Labor force participation rate (%) = (Labor Force / Population) * 100",
+    "LaborForce": "State labor force (thousands)",
+    "Employment_LAUS": "State employment from LAUS (thousands)",
+    "CivilianPopulation": "Civilian noninstitutional population 16+ (thousands)"
+  }
+}
