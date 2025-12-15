@@ -1,0 +1,9 @@
+,Value
+Total Observations,31152
+States,52
+Industries,5
+Time Period,2015-01-01 to 2025-09-01
+Pre-period Obs,24288
+Post-period Obs,6864
+Treated Obs,4197
+Simple DiD Estimate,1.83
