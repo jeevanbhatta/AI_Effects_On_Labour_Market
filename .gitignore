@@ -3,3 +3,12 @@ __pycache__/
 *.pyc
 .DS_Store
 .env
+
+# Large data files (too big for GitHub)
+data/occupation_panel.csv
+data/occupation_panel_metadata.json
+data/oes_raw/*.xlsx
+*.log
+
+# Keep only small datasets and scripts
+# To regenerate: python scripts/build_occupation_panel.py
