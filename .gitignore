@@ -11,5 +11,8 @@ data/occupation_panel_metadata.json
 data/oes_raw/*.xlsx
 *.log
 
+# Large PDF files
+docs/The_Future_of_Employment.pdf
+
 # Keep only small datasets and scripts
 # To regenerate: python scripts/build_occupation_panel.py
