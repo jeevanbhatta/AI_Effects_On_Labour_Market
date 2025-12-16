@@ -122,13 +122,13 @@
 %--------------------------------------
 \begin{abstract}
 \noindent
-This paper investigates the causal effect of generative AI availability on employment rates across U.S. industries with varying degrees of occupational exposure to AI technologies. Using a difference-in-differences (DiD) design, we compare employment trends in high AI-exposure industries—Information; Finance and Insurance; and Professional, Scientific, and Technical Services—against low-exposure industries (Leisure and Hospitality) before and after the release of ChatGPT in November 2022. Our panel dataset comprises 31,152 observations spanning 52 geographic units and 5 industries from January 2015 to September 2025. Preliminary results suggest [INSERT MAIN FINDING: direction and magnitude of the treatment effect]. These findings contribute to the growing literature on AI's labor market impacts and have implications for policymakers considering workforce transition programs. We discuss the parallel trends assumption, conduct robustness checks excluding the COVID-19 period, and acknowledge limitations including potential anticipation effects and measurement challenges in AI exposure classification.
+This paper investigates the causal effect of generative AI availability on employment at the occupation level using comprehensive U.S. labor market data. Using a difference-in-differences (DiD) design, we compare employment trends in high AI-exposure occupations against low-exposure occupations before and after the release of ChatGPT in November 2022. Our panel dataset comprises 3,051,972 complete observations spanning 696 occupations, 54 states, and 511 industries from 2015 to 2024. We measure AI exposure using validated scores from ILO (2025), complemented by teleworkability (Dingel \& Neiman 2020) and pre-AI automation risk (Frey \& Osborne 2017) measures. Preliminary results suggest [INSERT MAIN FINDING: direction and magnitude of the treatment effect]. These findings contribute to the growing literature on AI's labor market impacts and have implications for policymakers considering workforce transition programs. We discuss the parallel trends assumption, conduct robustness checks, and acknowledge limitations including the 42.93\% data retention rate from complete-case analysis.
 
 \vspace{0.5cm}
-\noindent\textbf{Keywords:} Generative AI, Employment, Difference-in-Differences, Labor Markets, ChatGPT, Automation
+\noindent\textbf{Keywords:} Generative AI, Employment, Difference-in-Differences, Labor Markets, ChatGPT, Automation, Occupations
 
 \vspace{0.3cm}
-\noindent\textbf{JEL Classification:} J21, J23, O33, O15
+\noindent\textbf{JEL Classification:} J21, J23, J24, O33, O15
 \end{abstract}
 
 \newpage
@@ -143,10 +143,10 @@ This paper investigates the causal effect of generative AI availability on emplo
 The release of ChatGPT in November 2022 marked a watershed moment in the deployment of artificial intelligence technologies. Unlike previous waves of automation that primarily affected routine manual and cognitive tasks, generative AI systems demonstrate capabilities in non-routine cognitive work, including writing, coding, analysis, and creative tasks \citep{eloundou2023gpts}. This technological shift raises fundamental questions about the future of employment across diverse sectors of the economy.
 
 % Causal Question
-\textbf{Causal Question:} What is the causal effect of the availability of Generative AI on employment rates in the United States for industries with varying degrees of occupational exposure to Generative AI?
+\textbf{Causal Question:} What is the causal effect of the availability of Generative AI on employment rates in the United States for occupations with varying degrees of exposure to Generative AI?
 
 % Context
-The context for this analysis is the U.S. labor market from January 2015 to September 2025, encompassing a pre-treatment period of relative AI stability and a post-treatment period following the widespread availability of large language models. The treatment event—the public release of ChatGPT on November 30, 2022—provides a clear temporal discontinuity that separates these periods.
+The context for this analysis is the U.S. labor market from 2015 to 2024, encompassing a pre-treatment period of relative AI stability (2015-2022) and a post-treatment period following the widespread availability of large language models (2023-2024). The treatment event—the public release of ChatGPT on November 30, 2022—provides a clear temporal discontinuity that separates these periods. Our analysis uses occupation-level data across all U.S. states and industries.
 
 % Importance
 Understanding AI's employment effects is crucial for several reasons. First, policymakers need evidence-based guidance to design workforce transition programs and social safety nets. Second, firms require insights into how AI adoption might reshape their labor force composition. Third, workers benefit from understanding which skills and occupations face disruption versus complementarity with AI systems. The stakes are substantial: the International Labour Organization estimates that generative AI could affect the equivalent of 300 million full-time jobs globally \citep{gmyrek2023generative}.
@@ -155,7 +155,7 @@ Understanding AI's employment effects is crucial for several reasons. First, pol
 Based on the theoretical framework of task-based automation \citep{acemoglu2011skills} and recent empirical studies on AI exposure \citep{felten2021occupational}, we hypothesize that industries with higher occupational exposure to generative AI will experience differential employment trends following AI availability. The direction of this effect is theoretically ambiguous: the displacement effect suggests reduced employment as AI substitutes for human labor, while the productivity effect suggests potential employment gains as AI complements human workers and creates new tasks. Our prior expectation, informed by historical patterns of automation \citep{autor2015there}, is that any negative employment effects will be modest in magnitude in the short run, with heterogeneous impacts across occupations within industries.
 
 % Approach Summary
-To address this causal question, we employ a difference-in-differences (DiD) research design. We compare employment trends in high AI-exposure industries (Information; Finance and Insurance; Professional, Scientific, and Technical Services) against a control group of low AI-exposure industries (Leisure and Hospitality) before and after November 2022. Our analysis leverages monthly employment data from the Bureau of Labor Statistics across 52 geographic units, with industry-level AI exposure scores derived from the ILO Working Paper 96 \citep{gmyrek2023generative}.
+To address this causal question, we employ a difference-in-differences (DiD) research design at the occupation level. We compare employment trends in high AI-exposure occupations (top 33\%, based on the 67th percentile threshold) against low AI-exposure occupations before and after November 2022. Our analysis leverages annual occupation-level employment data from the Bureau of Labor Statistics covering 696 occupations with complete exposure data across 54 states and 511 industries. Occupation-level AI exposure scores are derived from ILO Working Paper 140 (2025) \citep{gmyrek2023generative}, complemented by teleworkability scores from \cite{dingel2020many} and automation risk scores from \cite{frey2017future}.
 
 % Paper Structure
 The remainder of this paper proceeds as follows. Section \ref{sec:literature} reviews the relevant literature on AI and employment. Section \ref{sec:data} describes our data sources and key variables. Section \ref{sec:methodology} presents our causal identification strategy and econometric specifications. Section \ref{sec:results} reports our main findings and robustness checks. Section \ref{sec:conclusion} discusses implications and concludes. Section \ref{sec:limitations} acknowledges the limitations of our study.
@@ -195,45 +195,51 @@ Our study contributes to this literature in several ways. First, we provide caus
 Our analysis combines data from multiple sources:\footnote{All data and code for this project are available at: \url{https://github.com/[USERNAME]/AI_Effects_On_Labour_Market}. The variable codebook is provided in Appendix \ref{app:codebook}.}
 
 \begin{enumerate}[label=(\arabic*)]
-    \item \textbf{Bureau of Labor Statistics (BLS) Current Employment Statistics (CES):} Monthly employment data by industry and state from January 2015 to September 2025.
-    \item \textbf{ILO Working Paper 96 \citep{gmyrek2023generative}:} Industry-level generative AI exposure scores based on GPT-4 task automation assessments.
-    \item \textbf{Supplementary industry controls} from \cite{dingel2020many} (teleworkability), \cite{autor2013growth} (routine task index), and \cite{frey2017future} (pre-AI automation risk).
+    \item \textbf{Bureau of Labor Statistics (BLS) Occupational Employment and Wage Statistics (OEWS):} Annual employment data by occupation, state, and industry from 2015 to 2024.
+    \item \textbf{ILO Working Paper 140 (2025) \citep{gmyrek2023generative}:} Occupation-level generative AI exposure scores based on GPT-4 task automation assessments, mapped from ISCO-08 to SOC 2018.
+    \item \textbf{Dingel \& Neiman (2020) \citep{dingel2020many}:} Occupation-level teleworkability scores based on O*NET work context data.
+    \item \textbf{Frey \& Osborne (2017) \citep{frey2017future}:} Occupation-level pre-AI automation risk scores (702 occupations) from traditional computerization probability estimates.
 \end{enumerate}
 
 \subsection{Treatment and Outcome Variables}
 
-\textbf{Treatment:} The treatment is the availability of generative AI, operationalized as the interaction between industry-level AI exposure and a post-treatment indicator. We define:
+\textbf{Treatment:} The treatment is the availability of generative AI, operationalized as the interaction between occupation-level AI exposure and a post-treatment indicator. We define:
 \begin{itemize}
-    \item $Post_t = 1$ if $t \geq$ January 2023, and 0 otherwise. ChatGPT was released November 30, 2022; we use January 2023 as the first full month of availability.
-    \item $HighExposure_i = 1$ if industry $i$ has an AI exposure score $\geq 0.45$, and 0 otherwise.
-    \item $Treat_{it} = HighExposure_i \times Post_t$
+    \item $Post_t = 1$ if $t \geq$ 2023, and 0 otherwise. ChatGPT was released November 30, 2022; we use 2023 as the first full year of availability.
+    \item $HighExposure_o = 1$ if occupation $o$ has an AI exposure score $\geq$ 67th percentile threshold, and 0 otherwise. This classifies the top 33\% of occupations as high-exposure.
+    \item $Treat_{ot} = HighExposure_o \times Post_t$
 \end{itemize}
 
-\textbf{Outcome:} The primary outcome is the natural log of monthly employment ($\ln(Employment_{ist})$) for industry $i$ in state $s$ at time $t$. The log transformation allows us to interpret coefficients as approximate percentage changes.
+\textbf{Outcome:} The primary outcome is the natural log of annual employment ($\ln(Employment_{osit})$) for occupation $o$ in state $s$, industry $i$, at year $t$. The log transformation allows us to interpret coefficients as approximate percentage changes.
 
-\subsection{Industry Classification}
+\subsection{Occupation-Level Data and Complete Cases}
 
-Table \ref{tab:industry_classification} presents our industry classification based on AI exposure scores.
+Our analysis uses occupation-level data with complete exposure scores. Table \ref{tab:data_summary} presents key dataset characteristics.
 
 \begin{table}[H]
 \centering
-\caption{Industry Classification by AI Exposure}
-\label{tab:industry_classification}
+\caption{Dataset Summary: Occupation Panel (Complete Data)}
+\label{tab:data_summary}
 \begin{threeparttable}
-\begin{tabular}{@{}lccl@{}}
+\begin{tabular}{@{}lcc@{}}
 \toprule
-\textbf{Industry} & \textbf{AI Exposure Score} & \textbf{Classification} & \textbf{NAICS Code} \\
+\textbf{Characteristic} & \textbf{Count} & \textbf{Notes} \\
 \midrule
-Information & 0.52 & High (Treatment) & 51 \\
-Finance and Insurance & 0.50 & High (Treatment) & 52 \\
-Prof., Scientific, Tech. Services & 0.48 & High (Treatment) & 54 \\
-Total Nonfarm & 0.38 & Benchmark & -- \\
-Leisure and Hospitality & 0.28 & Low (Control) & 71-72 \\
+\textbf{Complete Observations} & 3,051,972 & 42.93\% of original \\
+\textbf{Occupations} & 696 & With complete exposure data \\
+\textbf{States/Territories} & 54 & All US states + DC + territories \\
+\textbf{Industries (NAICS)} & 511 & 93\% of total industries \\
+\textbf{Years} & 2015-2024 & 10 years (annual) \\
+\addlinespace
+\multicolumn{3}{l}{\textit{Exposure Variables (100\% Coverage)}} \\
+AI Exposure Score & Mean: 0.42 & ILO (2025) \\
+Teleworkability & Mean: 0.38 & Dingel \& Neiman (2020) \\
+Automation Risk (Pre-AI) & Mean: 0.51 & Frey \& Osborne (2017) \\
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
 \small
-\item \textit{Notes:} AI Exposure Scores from \cite{gmyrek2023generative}. Classification threshold at 0.45. Total Nonfarm is included for benchmarking but excluded from the main DiD analysis.
+\item \textit{Notes:} Complete dataset includes only observations with all three exposure scores present. Original dataset had 7,108,826 observations; 42.93\% retained after requiring complete data. Variables SkillIntensity and RoutineTaskIndex excluded due to insufficient coverage.
 \end{tablenotes}
 \end{threeparttable}
 \end{table}
@@ -244,7 +250,7 @@ Table \ref{tab:summary_stats} presents summary statistics for the key variables 
 
 \begin{table}[H]
 \centering
-\caption{Summary Statistics}
+\caption{Summary Statistics (Complete Occupation Panel)}
 \label{tab:summary_stats}
 \begin{threeparttable}
 \begin{tabular}{@{}lccccc@{}}
@@ -252,25 +258,23 @@ Table \ref{tab:summary_stats} presents summary statistics for the key variables 
 \textbf{Variable} & \textbf{Mean} & \textbf{Std. Dev.} & \textbf{Min} & \textbf{Max} & \textbf{N} \\
 \midrule
 \multicolumn{6}{l}{\textit{Panel A: Outcome Variables}} \\
-Employment (thousands) & XXX.XX & XXX.XX & XX.XX & XXXX.XX & 31,152 \\
-Log Employment & X.XX & X.XX & X.XX & X.XX & 31,152 \\
+Employment (count) & XXX.XX & XXX.XX & X.XX & XXXX.XX & 3,051,972 \\
+Log Employment & X.XX & X.XX & X.XX & XX.XX & 3,051,972 \\
 \addlinespace
 \multicolumn{6}{l}{\textit{Panel B: Treatment Variables}} \\
-Post (=1 if $\geq$ 2023) & 0.22 & 0.41 & 0 & 1 & 31,152 \\
-High Exposure (=1 if AI score $\geq$ 0.45) & 0.60 & 0.49 & 0 & 1 & 31,152 \\
-Treat (Post $\times$ High Exposure) & 0.13 & 0.34 & 0 & 1 & 31,152 \\
+Post (=1 if $\geq$ 2023) & 0.20 & 0.40 & 0 & 1 & 3,051,972 \\
+High Exposure (=1 if top 33\%) & 0.33 & 0.47 & 0 & 1 & 3,051,972 \\
+Treat (Post $\times$ High Exposure) & 0.07 & 0.25 & 0 & 1 & 3,051,972 \\
 \addlinespace
-\multicolumn{6}{l}{\textit{Panel C: Industry Controls}} \\
-AI Exposure Score & 0.45 & 0.10 & 0.28 & 0.52 & 5 \\
-Teleworkability & 0.51 & 0.29 & 0.04 & 0.76 & 5 \\
-Routine Task Index & 0.42 & 0.11 & 0.25 & 0.55 & 5 \\
-Skill Intensity & 0.46 & 0.22 & 0.12 & 0.72 & 5 \\
-Pre-AI Automation Risk & 0.42 & 0.22 & 0.18 & 0.75 & 5 \\
+\multicolumn{6}{l}{\textit{Panel C: Occupation Exposure Scores}} \\
+AI Exposure Score & 0.42 & 0.18 & 0.05 & 0.95 & 696 \\
+Teleworkability & 0.38 & 0.27 & 0.00 & 1.00 & 696 \\
+Automation Risk (Pre-AI) & 0.51 & 0.28 & 0.003 & 0.99 & 696 \\
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
 \small
-\item \textit{Notes:} Panel A and B statistics calculated over the full sample of 31,152 state-industry-month observations from January 2015 to September 2025. Panel C statistics calculated at the industry level (N=5).
+\item \textit{Notes:} Panel A and B statistics calculated over the complete sample of 3,051,972 occupation-state-industry-year observations from 2015 to 2024. Panel C statistics calculated at the occupation level (N=696 occupations with complete data). All observations have complete exposure scores (100\% coverage).
 \end{tablenotes}
 \end{threeparttable}
 \end{table}
@@ -280,13 +284,13 @@ Pre-AI Automation Risk & 0.42 & 0.22 & 0.18 & 0.75 & 5 \\
 Several limitations of our data merit discussion:
 
 \begin{enumerate}
-    \item \textbf{Measurement of AI exposure:} Our exposure classification relies on ex-ante assessments of AI's task-level capabilities, which may not perfectly correspond to actual AI adoption rates across industries.
+    \item \textbf{Complete-case selection:} Our analysis uses only observations with complete exposure data (42.93\% of original dataset), which may introduce selection bias if data availability correlates with occupation characteristics.
     
-    \item \textbf{Industry aggregation:} Employment data at the industry level may mask heterogeneous effects across occupations within industries.
+    \item \textbf{Measurement of AI exposure:} Our exposure classification relies on ex-ante assessments of AI's task-level capabilities, which may not perfectly correspond to actual AI adoption rates across occupations.
     
-    \item \textbf{COVID-19 confounding:} The 2020-2021 period exhibits substantial employment disruptions due to the pandemic, with differential impacts across industries (particularly severe for Leisure and Hospitality).
+    \item \textbf{Annual frequency:} Employment data at annual frequency may miss short-term dynamics and seasonal patterns in AI's employment effects.
     
-    \item \textbf{Preliminary recent data:} Employment figures for recent months are preliminary and subject to revision.
+    \item \textbf{Missing variables:} SkillIntensity and RoutineTaskIndex excluded from analysis due to insufficient data coverage, potentially omitting relevant heterogeneity dimensions.
 \end{enumerate}
 
 %--------------------------------------
@@ -360,25 +364,26 @@ The key identifying assumption is \textbf{parallel trends}: in the absence of tr
 
 Our baseline specification is:
 \begin{equation}
-    \ln(Employment_{ist}) = \beta_1 \cdot Treat_{it} + \alpha_i + \gamma_t + \delta_s + \varepsilon_{ist}
+    \ln(Employment_{osit}) = \beta_1 \cdot Treat_{ot} + \alpha_o + \gamma_t + \delta_s + \theta_i + \varepsilon_{osit}
     \label{eq:baseline}
 \end{equation}
 
 where:
 \begin{itemize}
-    \item $\ln(Employment_{ist})$ is log employment in industry $i$, state $s$, at time $t$
-    \item $Treat_{it} = HighExposure_i \times Post_t$ is the treatment indicator
-    \item $\alpha_i$ are industry fixed effects (absorb time-invariant industry characteristics)
-    \item $\gamma_t$ are time fixed effects (absorb economy-wide shocks)
+    \item $\ln(Employment_{osit})$ is log employment for occupation $o$, state $s$, industry $i$, at year $t$
+    \item $Treat_{ot} = HighExposure_o \times Post_t$ is the treatment indicator
+    \item $\alpha_o$ are occupation fixed effects (absorb time-invariant occupation characteristics)
+    \item $\gamma_t$ are year fixed effects (absorb economy-wide shocks)
     \item $\delta_s$ are state fixed effects (absorb time-invariant state characteristics)
-    \item $\varepsilon_{ist}$ is the error term
+    \item $\theta_i$ are industry fixed effects (absorb industry-specific trends)
+    \item $\varepsilon_{osit}$ is the error term
 \end{itemize}
 
-The coefficient of interest is $\beta_1$, which estimates the \textbf{average treatment effect on the treated (ATT)}—the differential change in log employment for high AI-exposure industries relative to low-exposure industries after ChatGPT's release.
+The coefficient of interest is $\beta_1$, which estimates the \textbf{average treatment effect on the treated (ATT)}—the differential change in log employment for high AI-exposure occupations relative to low-exposure occupations after ChatGPT's release.
 
 \textbf{Alternative specification with continuous treatment:}
 \begin{equation}
-    \ln(Employment_{ist}) = \beta_1 \cdot (AIScore_i \times Post_t) + \alpha_i + \gamma_t + \delta_s + \varepsilon_{ist}
+    \ln(Employment_{osit}) = \beta_1 \cdot (AIScore_o \times Post_t) + \alpha_o + \gamma_t + \delta_s + \theta_i + \varepsilon_{osit}
     \label{eq:continuous}
 \end{equation}
 
@@ -386,11 +391,11 @@ This specification uses the continuous AI exposure score instead of the binary c
 
 \textbf{Event study specification:}
 \begin{equation}
-    \ln(Employment_{ist}) = \sum_{k=-K}^{K} \beta_k \cdot (HighExposure_i \times \mathbf{1}[t = k]) + \alpha_i + \gamma_t + \delta_s + \varepsilon_{ist}
+    \ln(Employment_{osit}) = \sum_{k=-K}^{K} \beta_k \cdot (HighExposure_o \times \mathbf{1}[Year = 2023+k]) + \alpha_o + \gamma_t + \delta_s + \theta_i + \varepsilon_{osit}
     \label{eq:eventstudy}
 \end{equation}
 
-This specification includes leads and lags relative to the treatment date, allowing us to: (1) test the parallel trends assumption by examining pre-treatment coefficients, and (2) trace out the dynamic effects of AI availability.
+This specification includes leads and lags relative to the treatment year (2023), allowing us to: (1) test the parallel trends assumption by examining pre-treatment coefficients, and (2) trace out the dynamic effects of AI availability.
 
 \subsection{Identifying Assumptions}
 
@@ -413,7 +418,7 @@ The DiD estimator requires the following assumptions:
 
 \subsection{Standard Error Estimation}
 
-We cluster standard errors at the industry-state level to account for serial correlation in employment within industry-state combinations over time \citep{bertrand2004much}. We also report results with alternative clustering (state level, industry level) as robustness checks.
+We cluster standard errors at the occupation level to account for serial correlation in employment within occupations over time \citep{bertrand2004much}. This accounts for the fact that shocks to specific occupations may be correlated across states and industries. We also report results with alternative clustering (state level, two-way clustering at occupation × year) as robustness checks.
 
 %--------------------------------------
 % 5. RESULTS
@@ -422,15 +427,15 @@ We cluster standard errors at the industry-state level to account for serial cor
 
 \subsection{Visual Evidence: Parallel Trends}
 
-Figure \ref{fig:parallel_trends} displays employment trends for high and low AI-exposure industries, indexed to January 2015. The pre-treatment period (2015-2022) shows [DESCRIBE PATTERN]. The vertical line marks ChatGPT's release.
+Figure \ref{fig:parallel_trends} displays employment trends for high and low AI-exposure occupations, showing mean log employment by year. The pre-treatment period (2015-2022) shows [DESCRIBE PATTERN]. The vertical line marks ChatGPT's release.
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.95\textwidth]{figures/parallel_trends.pdf}
-\caption{Employment Trends: High vs. Low AI Exposure Industries}
+\includegraphics[width=0.95\textwidth]{figures/parallel_trends_complete.pdf}
+\caption{Employment Trends: High vs. Low AI Exposure Occupations}
 \label{fig:parallel_trends}
 \begin{minipage}{0.9\textwidth}
-\small\textit{Notes:} This figure shows employment trends for high AI exposure industries (Information, Finance \& Insurance, Professional/Scientific/Technical Services) and low AI exposure industries (Leisure \& Hospitality) from January 2015 to September 2025. Employment is indexed to 100 in January 2015. The vertical dashed line marks ChatGPT's release (November 2022). Green shaded area indicates pre-treatment period; red shaded area indicates post-treatment period.
+\small\textit{Notes:} This figure shows mean log employment trends for high AI exposure occupations (top 33\%, above 67th percentile) and low AI exposure occupations (bottom 67\%) from 2015 to 2024. The vertical dashed line marks ChatGPT's release (November 2022). Based on occupation-level panel data with 696 occupations. Generated by \texttt{did\_analysis\_complete.R}.
 \end{minipage}
 \end{figure}
 
@@ -466,15 +471,15 @@ $R^2$ & 0.XXX & 0.XXX & 0.XXX & 0.XXX \\
 \end{tabular}
 \begin{tablenotes}
 \small
-\item \textit{Notes:} Dependent variable is log employment. Standard errors clustered at the state-industry level in parentheses. * p < 0.10, ** p < 0.05, *** p < 0.01. Run the R script \texttt{analysis/did\_analysis.R} to generate the actual table at \texttt{paper/tables/main\_results.tex}.
+\item \textit{Notes:} Dependent variable is log employment. Standard errors clustered at the occupation level in parentheses. * p < 0.10, ** p < 0.05, *** p < 0.01. Run the R script \texttt{analysis/did\_analysis\_complete.R} to generate the actual table at \texttt{paper/tables/main\_results\_complete.tex}.
 \end{tablenotes}
 \end{threeparttable}
 \end{table}
 
 % Alternative: Uncomment to use auto-generated table from R
-% \input{tables/main_results.tex}
+% \input{tables/main_results_complete.tex}
 
-\textbf{Interpretation:} The coefficient in Column (1) of [X.XXX] indicates that following ChatGPT's release, employment in high AI-exposure industries [increased/decreased] by approximately [X.X]\% relative to low AI-exposure industries, [controlling for/not controlling for] [list controls]. This effect is [statistically significant/not statistically significant] at the [X]\% level.
+\textbf{Interpretation:} The coefficient in Column (3) (preferred specification) of [X.XXX] indicates that following ChatGPT's release, employment in high AI-exposure occupations (top 33\%) [increased/decreased] by approximately [X.X]\% relative to low AI-exposure occupations, controlling for occupation, year, state, and industry fixed effects. This effect is [statistically significant/not statistically significant] at the [X]\% level.
 
 \subsection{Event Study Results}
 
@@ -482,29 +487,29 @@ Figure \ref{fig:event_study} presents event study estimates showing the dynamic 
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.95\textwidth]{figures/event_study.pdf}
+\includegraphics[width=0.95\textwidth]{figures/event_study_complete.pdf}
 \caption{Event Study: Dynamic Effects of AI Availability}
 \label{fig:event_study}
 \begin{minipage}{0.9\textwidth}
-\small\textit{Notes:} This figure plots coefficients from Equation \ref{eq:eventstudy}, showing the differential effect on log employment for high AI-exposure industries relative to low-exposure industries, by period relative to ChatGPT's release (November 2022). The reference period is October 2022 (t = -1). Shaded area indicates 95\% confidence intervals. Standard errors are clustered at the state-industry level.
+\small\textit{Notes:} This figure plots coefficients from Equation \ref{eq:eventstudy}, showing the differential effect on log employment for high AI-exposure occupations (top 33\%) relative to low-exposure occupations, by year relative to ChatGPT's release (November 2022, marked as 2023 treatment year). The reference period is 2022 (t = -1). Shaded area indicates 95\% confidence intervals. Standard errors are clustered at the occupation level. Generated by \texttt{did\_analysis\_complete.R}.
 \end{minipage}
 \end{figure}
 
-The pre-treatment coefficients [are/are not] statistically distinguishable from zero, [supporting/casting doubt on] the parallel trends assumption. Post-treatment coefficients show [describe dynamic pattern].
+The pre-treatment coefficients [are/are not] statistically distinguishable from zero, [supporting/casting doubt on] the parallel trends assumption. Post-treatment coefficients (2023-2024) show [describe dynamic pattern]. With only 2 post-treatment years, we observe [immediate/gradual/delayed] effects.
 
 \subsection{Robustness Checks}
 
-\subsubsection{Excluding COVID-19 Period}
+\subsubsection{Alternative Treatment Thresholds}
 
-Table \ref{tab:robustness} Column (1) presents results excluding the March 2020 - December 2021 period to address concerns about differential COVID impacts.
+Table \ref{tab:robustness} Column (1) presents results using the 75th percentile threshold (top 25\% as high-exposure) instead of 67th percentile.
 
-\subsubsection{Alternative Treatment Definitions}
+\subsubsection{Continuous Treatment}
 
-Column (2) uses January 2023 vs. November 2022 as the treatment date. Column (3) uses a continuous AI exposure measure instead of the binary classification.
+Column (2) uses a continuous AI exposure measure instead of the binary classification, estimating heterogeneous effects by exposure intensity.
 
-\subsubsection{Placebo Tests}
+\subsubsection{Alternative Clustering}
 
-Column (4) presents a placebo test using January 2019 as a false treatment date. A significant coefficient would suggest pre-existing differential trends unrelated to AI availability.
+Column (3) uses two-way clustering at occupation × year level. Column (4) uses state-level clustering as alternative specifications.
 
 \begin{table}[H]
 \centering
@@ -548,16 +553,16 @@ $R^2$ & 0.XXX & 0.XXX & 0.XXX & 0.XXX \\
 
 According to Cohen's conventions, $d = 0.2$ is considered small, $d = 0.5$ medium, and $d = 0.8$ large. Our effect size of [X.XX] suggests a [small/medium/large] practical effect.
 
-In substantive terms, the point estimate implies that generative AI availability is associated with approximately [X,XXX] [more/fewer] jobs in high-exposure industries over the post-treatment period, equivalent to [X.X]\% of baseline employment in these sectors.
+In substantive terms, the point estimate implies that generative AI availability is associated with approximately [X,XXX] [more/fewer] jobs in high-exposure occupations (those in the top 33\% of AI exposure) over the post-treatment period, equivalent to [X.X]\% of baseline employment in these occupations. Given our sample includes 696 occupations across 54 states and 511 industries, this represents substantial employment effects.
 
 %--------------------------------------
 % 6. CONCLUSION
 %--------------------------------------
 \section{Conclusion}\label{sec:conclusion}
 
-This paper provides causal evidence on the employment effects of generative AI availability in the United States. Using a difference-in-differences design that compares employment trends in high versus low AI-exposure industries before and after ChatGPT's release, we find that [MAIN FINDING].
+This paper provides causal evidence on the employment effects of generative AI availability in the United States using occupation-level data. Using a difference-in-differences design that compares employment trends in high versus low AI-exposure occupations (based on the 67th percentile threshold) before and after ChatGPT's release, we find that [MAIN FINDING].
 
-\textbf{Summary of findings:} The coefficient on the treatment variable indicates that high AI-exposure industries experienced a [X.X percentage point] [increase/decrease] in employment relative to low-exposure industries following generative AI availability. This translates to approximately [interpretation in levels/jobs]. The effect is [statistically significant/not significant] and represents a [small/medium/large] effect size by conventional standards.
+\textbf{Summary of findings:} The coefficient on the treatment variable indicates that high AI-exposure occupations (top 33\%) experienced a [X.X percentage point] [increase/decrease] in employment relative to low-exposure occupations following generative AI availability. Our analysis uses a complete-cases dataset (42.93\% retention, 3.05 million observations) covering 696 occupations with validated exposure scores from peer-reviewed sources. The effect is [statistically significant/not significant] and represents a [small/medium/large] effect size by conventional standards.
 
 \textbf{Policy implications:} Our findings have several implications for policymakers:
 \begin{enumerate}
@@ -568,10 +573,11 @@ This paper provides causal evidence on the employment effects of generative AI a
 
 \textbf{Future research:} Several avenues merit further investigation:
 \begin{itemize}
-    \item Occupation-level analysis within industries to identify heterogeneous effects
-    \item Longer-run effects as AI adoption matures
-    \item Analysis of job quality and wages alongside employment levels
-    \item Cross-country comparisons of AI's labor market impacts
+    \item Heterogeneity analysis by teleworkability and automation risk dimensions
+    \item Longer-run effects as AI adoption matures beyond 2024
+    \item Analysis of job quality, wages, and hours alongside employment levels
+    \item Cross-country comparisons using comparable occupation-level data
+    \item Integration of SkillIntensity and RoutineTaskIndex once data coverage improves
 \end{itemize}
 
 %--------------------------------------
@@ -584,33 +590,35 @@ We acknowledge several limitations of our analysis:
 \subsection{Data Limitations}
 
 \begin{enumerate}
-    \item \textbf{AI exposure measurement:} Our industry-level AI exposure scores are based on ex-ante assessments of AI capabilities rather than actual adoption rates. Industries classified as high-exposure may vary in their actual AI uptake.
+    \item \textbf{Complete-case selection:} Our analysis uses only 42.93\% of the original data (observations with complete exposure scores). While we retain 100\% of states and 93\% of industries, only 38\% of occupations have complete data. This may bias results if data availability correlates with occupation characteristics relevant to AI effects.
     
-    \item \textbf{Industry aggregation:} Effects may be heterogeneous across occupations within industries. Our industry-level analysis cannot capture within-industry reallocation of workers.
+    \item \textbf{AI exposure measurement:} Our occupation-level AI exposure scores are based on ex-ante assessments of AI capabilities rather than actual adoption rates. Occupations classified as high-exposure may vary in their actual AI uptake.
     
-    \item \textbf{Temporal coverage:} Our post-treatment period (2023-2025) captures only the initial years following widespread AI availability. Longer-run effects may differ as adoption deepens.
+    \item \textbf{Temporal coverage:} Our post-treatment period (2023-2024) captures only the initial 2 years following widespread AI availability. Longer-run effects may differ substantially as adoption deepens.
+    
+    \item \textbf{Missing variables:} SkillIntensity and RoutineTaskIndex are excluded due to insufficient coverage. These variables could reveal important heterogeneity in AI effects.
 \end{enumerate}
 
 \subsection{Identification Concerns}
 
 \begin{enumerate}
-    \item \textbf{Parallel trends:} While pre-treatment trends appear parallel, the COVID-19 pandemic created substantial differential disruptions across industries. Our robustness checks excluding 2020-2021 address this partially, but long-term pandemic effects may persist.
+    \item \textbf{Parallel trends:} The pre-treatment period (2015-2022) spans 8 years, but annual frequency limits our ability to detect subtle trend violations. The assumption is testable through event study specifications.
     
-    \item \textbf{Anticipation effects:} Firms may have adjusted employment practices in anticipation of AI capabilities before ChatGPT's public release, given prior awareness of large language model development.
+    \item \textbf{Anticipation effects:} Firms may have adjusted employment practices in anticipation of AI capabilities before ChatGPT's public release, given prior awareness of large language model development. This would attenuate our estimates.
     
-    \item \textbf{Spillovers:} Workers displaced from high-exposure industries may relocate to low-exposure industries, potentially biasing our estimates toward finding larger negative effects on high-exposure industries.
+    \item \textbf{Spillovers:} Workers displaced from high-exposure occupations may relocate to low-exposure occupations, potentially biasing our estimates. Occupation fixed effects partially address this by absorbing time-invariant occupation characteristics.
     
-    \item \textbf{Multiple treatments:} Other technological and economic changes occurred during the post-treatment period, making it challenging to isolate AI's specific effects.
+    \item \textbf{Multiple treatments:} Other technological and economic changes occurred during the post-treatment period. Our occupation-level analysis with multiple fixed effects helps isolate AI-specific effects.
 \end{enumerate}
 
 \subsection{External Validity}
 
-Our findings pertain to U.S. industries from 2015-2025. Generalizability to other countries may be limited by differences in:
+Our findings pertain to U.S. occupations from 2015-2024, representing 42.93\% of all occupation-state-industry-year combinations (complete-case analysis). Generalizability to other contexts may be limited by:
 \begin{itemize}
-    \item Labor market institutions and regulations
-    \item Industrial composition and AI adoption rates
-    \item Educational systems and workforce skill distributions
-    \item Economic conditions and growth trajectories
+    \item Excluded occupations (61.6\% without complete data): Results may not apply to emerging occupations or those without historical data
+    \item Other countries: Differences in labor market institutions, AI adoption rates, and workforce skill distributions
+    \item Short post-treatment period: Effects beyond 2024 may differ as AI adoption matures
+    \item Occupation-level focus: Cannot capture firm-level or worker-level heterogeneity in AI adoption
 \end{itemize}
 
 %--------------------------------------
