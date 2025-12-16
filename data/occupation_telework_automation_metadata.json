@@ -1,0 +1,23 @@
+{
+  "generation_date": "2025-12-16T21:37:34.739997",
+  "sources": {
+    "teleworkability": {
+      "citation": "Dingel, J. I., & Neiman, B. (2020). How many jobs can be done at home? Journal of Public Economics, 189, 104235.",
+      "url": "https://raw.githubusercontent.com/jdingel/DingelNeiman-workathome/master/occ_onet_scores/output/occupations_workathome.csv",
+      "variable": "Binary indicator (0/1) for whether occupation can be performed remotely",
+      "methodology": "Classification based on O*NET work context questions about physical presence requirements"
+    },
+    "automation_risk": {
+      "citation": "Frey, C. B., & Osborne, M. A. (2017). The future of employment: How susceptible are jobs to computerisation? Technological Forecasting and Social Change, 114, 254-280.",
+      "doi": "10.1016/j.techfore.2016.08.019",
+      "variable": "Probability of automation (0-1) via pre-GenAI technologies (robotics, traditional ML)",
+      "methodology": "Machine learning model trained on expert assessments of 70 occupations, extended to 702 occupations"
+    }
+  },
+  "n_occupations": 776,
+  "coverage": {
+    "both_scores": 172,
+    "telework_only": 602,
+    "automation_only": 2
+  }
+}
