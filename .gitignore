@@ -6,6 +6,7 @@ __pycache__/
 
 # Large data files (too big for GitHub)
 data/occupation_panel.csv
+data/occupation_panel_complete.csv
 data/occupation_panel_metadata.json
 data/oes_raw/*.xlsx
 *.log
