@@ -181,9 +181,15 @@ Empirical evidence on AI's labor market impacts remains nascent. \cite{acemoglu2
 
 Studies specifically examining generative AI's employment effects are emerging. \cite{hui2023ai} find that freelance platform earnings for AI-exposed occupations (writing, coding) declined following ChatGPT's release. \cite{eisfeldt2023generative} estimate that firms with higher AI exposure experienced differential stock market performance, suggesting market expectations of productivity effects.
 
+\subsection{European Evidence on AI and Labor Markets}
+
+While most early evidence on generative AI comes from the United States, European studies provide important comparative context. Labor market institutions differ substantially between the US and EU: stronger employment protection legislation in Europe, more rigid wage-setting mechanisms, and different skill formation systems \citep{blanchard2006employment}. These institutional differences may moderate AI's employment effects.
+
+European studies suggest similar exposure patterns but potentially different adjustment mechanisms. The European Centre for the Development of Vocational Training (Cedefop) estimates that 24\% of EU jobs are highly exposed to AI, comparable to US estimates \citep{cedefop2023}. However, adjustment may occur more through hours and wages than employment levels due to firing costs. Cross-country variation within Europe—from flexible labor markets (Denmark, Netherlands) to regulated markets (France, Italy)—provides natural experiments for understanding how institutions shape AI's impacts.
+
 \subsection{Contribution to Literature}
 
-Our study contributes to this literature in several ways. First, we provide causal estimates of generative AI's employment effects using a quasi-experimental design, addressing the endogeneity concerns in cross-sectional studies. Second, we analyze industry-level effects using comprehensive BLS data, complementing occupation-level studies that may miss between-occupation reallocation effects. Third, we examine the medium-run (2023-2025) effects, providing evidence beyond the immediate post-release period.
+Our study contributes to this literature in several ways. First, we provide causal estimates of generative AI's employment effects using a quasi-experimental design, addressing the endogeneity concerns in cross-sectional studies. Second, we use occupation-level data across all US states and industries, providing granular evidence on heterogeneous effects. Third, we examine the medium-run (2023-2024) effects with complete exposure data from validated academic sources. Fourth, we provide a methodological template that could be replicated in European and other contexts, facilitating cross-country comparisons.
 
 %--------------------------------------
 % 3. DATA
@@ -420,6 +426,22 @@ The DiD estimator requires the following assumptions:
 
 We cluster standard errors at the occupation level to account for serial correlation in employment within occupations over time \citep{bertrand2004much}. This accounts for the fact that shocks to specific occupations may be correlated across states and industries. We also report results with alternative clustering (state level, two-way clustering at occupation × year) as robustness checks.
 
+\subsection{Institutional Context: US Labor Market Characteristics}
+
+Our analysis focuses on the US labor market, which has distinctive institutional features relevant for interpreting AI's employment effects:
+
+\begin{enumerate}
+    \item \textbf{Employment-at-will:} Most US workers can be terminated without cause (except Montana), facilitating rapid employment adjustment. This contrasts with European markets where dismissal costs are higher \citep{blanchard2006employment}.
+    
+    \item \textbf{Limited collective bargaining:} Only 10.3\% of US workers are unionized (2023), concentrated in public sector and specific industries. This means AI-driven restructuring faces fewer institutional constraints than in European economies with sectoral bargaining.
+    
+    \item \textbf{Market-driven skill formation:} US relies more on general education and on-the-job training rather than structured apprenticeship systems common in Germany, Switzerland, and Austria. This may affect workers' ability to adapt to AI-induced skill shifts.
+    
+    \item \textbf{Wage flexibility:} Wages adjust more quickly in the US than in Europe, potentially absorbing AI shocks through compensation rather than employment \citep{freeman2007america}.
+\end{enumerate}
+
+These institutional features suggest our findings may represent an \textit{upper bound} on short-run employment effects. In more regulated European labor markets, adjustment may occur more gradually or through non-employment margins (hours, wages, job quality).
+
 %--------------------------------------
 % 5. RESULTS
 %--------------------------------------
@@ -576,8 +598,11 @@ This paper provides causal evidence on the employment effects of generative AI a
     \item Heterogeneity analysis by teleworkability and automation risk dimensions
     \item Longer-run effects as AI adoption matures beyond 2024
     \item Analysis of job quality, wages, and hours alongside employment levels
-    \item Cross-country comparisons using comparable occupation-level data
+    \item \textbf{Cross-country comparisons:} Replicate this analysis for European labor markets to test whether institutional differences (employment protection, collective bargaining, vocational training systems) moderate AI's employment effects. EU countries offer variation in labor market flexibility that could identify the role of institutions.
+    \item \textbf{Within-Europe variation:} Compare flexible Nordic labor markets (Denmark, Sweden) against regulated Continental markets (France, Germany, Italy) using comparable occupation-level data from Eurostat and national statistical offices.
+    \item \textbf{Adjustment mechanisms:} Examine whether AI affects hours worked and wages more than employment headcount in rigid labor markets, using European data with stronger worker protections.
     \item Integration of SkillIntensity and RoutineTaskIndex once data coverage improves
+    \item \textbf{Firm-level analysis:} Link employment effects to actual AI adoption rates using firm surveys or digital footprint data to address measurement issues in exposure scores.
 \end{itemize}
 
 %--------------------------------------
@@ -614,12 +639,33 @@ We acknowledge several limitations of our analysis:
 \subsection{External Validity}
 
 Our findings pertain to U.S. occupations from 2015-2024, representing 42.93\% of all occupation-state-industry-year combinations (complete-case analysis). Generalizability to other contexts may be limited by:
+
 \begin{itemize}
-    \item Excluded occupations (61.6\% without complete data): Results may not apply to emerging occupations or those without historical data
-    \item Other countries: Differences in labor market institutions, AI adoption rates, and workforce skill distributions
-    \item Short post-treatment period: Effects beyond 2024 may differ as AI adoption matures
-    \item Occupation-level focus: Cannot capture firm-level or worker-level heterogeneity in AI adoption
+    \item \textbf{Excluded occupations} (61.6\% without complete data): Results may not apply to emerging occupations or those without historical data
+    
+    \item \textbf{US institutional context:} Our findings reflect rapid adjustment in a flexible labor market. External validity to other countries depends on institutional similarity:
+    \begin{itemize}
+        \item \textit{Similar contexts:} UK, Canada, Australia, New Zealand (Anglo-Saxon model with flexible labor markets)
+        \item \textit{Different contexts:} Continental Europe (higher firing costs, stronger unions, coordinated wage bargaining may dampen employment effects but amplify wage/hours effects)
+        \item \textit{Very different:} Nordic countries combine flexibility with strong social insurance; effects may concentrate on job transitions rather than unemployment
+    \end{itemize}
+    
+    \item \textbf{AI adoption patterns:} US leads in generative AI adoption. European firms may adopt more slowly due to:
+    \begin{itemize}
+        \item Stricter data privacy regulations (GDPR)
+        \item Different digital infrastructure and cloud computing penetration
+        \item More conservative corporate cultures toward automation
+        \item Language barriers (most AI systems optimized for English)
+    \end{itemize}
+    
+    \item \textbf{Skill distributions:} US has higher share of college-educated workers but also more inequality in educational attainment. Countries with stronger vocational systems (Germany, Switzerland) may see different patterns.
+    
+    \item \textbf{Short post-treatment period:} Effects beyond 2024 may differ as AI adoption matures and as institutions adapt (e.g., regulation, collective bargaining agreements addressing AI).
+    
+    \item \textbf{Occupation-level focus:} Cannot capture firm-level or worker-level heterogeneity in AI adoption, particularly relevant in European contexts with more heterogeneous firm sizes and industry structures.
 \end{itemize}
+
+\textbf{Cross-country research priorities:} Future studies should replicate this analysis in European contexts to test whether our findings generalize or if institutional differences create distinct adjustment patterns. The EU's strong employment protection may shift effects from employment levels to hours worked, wages, or job quality. Comparing Nordic (flexicurity), Anglo-Saxon (liberal), and Continental (coordinated) labor market models would illuminate how institutions moderate technological change.
 
 %--------------------------------------
 % REFERENCES
